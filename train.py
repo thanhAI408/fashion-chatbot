@@ -1,20 +1,34 @@
-import pandas as pd
+# Lưu ý khi train dât thì cần copy tất cả data từ nguồn nào đó sau đó dán ô đầu tiên
+# trong excel sau đó chuyển text thành cột ngăn cách bởi dấu phẩy là xong.
+
+import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
-import joblib
 
-data = pd.read_csv("intents.csv")
+texts = []
+labels = []
 
-X = data["text"]
-y = data["intent"]
+current_intent = None
 
-vectorizer = TfidfVectorizer()
-X_vec = vectorizer.fit_transform(X)
+with open("intents.txt", "r", encoding="utf-8") as f:
+    for line in f:
+        line = line.strip()
+        if not line:
+            continue
 
-model = LogisticRegression()
-model.fit(X_vec, y)
+        if line.startswith("[") and line.endswith("]"):
+            current_intent = line[1:-1]
+        else:
+            texts.append(line)
+            labels.append(current_intent)
+
+vectorizer = TfidfVectorizer(ngram_range=(1,2))
+X = vectorizer.fit_transform(texts)
+
+model = LogisticRegression(max_iter=1000)
+model.fit(X, labels)
 
 joblib.dump(model, "intent_model.pkl")
 joblib.dump(vectorizer, "vectorizer.pkl")
 
-print("Train xong model chatbot!")
+print("Train xong với intents.txt!")

@@ -1,0 +1,1210 @@
+[greeting]
+hello
+chào buổi tối
+chào bạn
+alo
+hi
+chào buổi sáng
+chào buổi sáng
+chào buổi sáng
+xin chào
+xin chào
+chào buổi sáng
+hello
+chào bạn
+alo
+xin chào
+xin chào
+shop ơi
+chào bạn
+chào buổi tối
+hello
+chào shop
+hello
+chào buổi tối
+hi
+chào bạn
+chào buổi tối
+xin chào
+chào bạn
+xin chào
+xin chào
+chào shop
+chào buổi sáng
+hi
+chào shop
+shop ơi
+xin chào
+chào buổi tối
+chào buổi sáng
+chào bạn
+xin chào
+chào buổi sáng
+xin chào
+chào shop
+hi
+alo
+chào buổi tối
+chào buổi sáng
+hello
+xin chào
+hi
+shop ơi
+alo
+hello
+shop ơi
+hello
+chào shop
+chào buổi tối
+xin chào
+hi
+shop ơi
+shop ơi
+chào bạn
+alo
+chào buổi tối
+shop ơi
+chào shop
+hello
+chào buổi tối
+chào shop
+chào shop
+hello
+shop ơi
+chào buổi sáng
+chào buổi tối
+hi
+hi
+chào bạn
+chào bạn
+hi
+hi
+alo
+xin chào
+hi
+shop ơi
+chào buổi sáng
+xin chào
+xin chào
+chào buổi sáng
+hello
+shop ơi
+chào bạn
+hi
+chào buổi tối
+chào shop
+alo
+chào buổi tối
+hi
+xin chào
+shop ơi
+alo
+hello
+chào shop
+chào bạn
+xin chào
+alo
+chào shop
+chào buổi tối
+hi
+chào buổi tối
+chào shop
+hi
+chào bạn
+hi
+hi
+alo
+chào bạn
+chào buổi tối
+shop ơi
+chào buổi tối
+chào bạn
+[thanks]
+ok cảm ơn
+thank you
+cảm ơn shop
+cảm ơn shop
+thank you
+thank you
+ok cảm ơn
+ok cảm ơn
+thank you
+thanks
+ok cảm ơn
+ok cảm ơn
+cảm ơn
+cảm ơn shop
+ok cảm ơn
+thank you
+thanks
+cảm ơn
+cảm ơn shop
+ok cảm ơn
+thanks
+thank you
+cảm ơn
+thank you
+thank you
+cảm ơn
+cảm ơn
+cảm ơn
+ok cảm ơn
+ok cảm ơn
+thank you
+cảm ơn
+cảm ơn
+cảm ơn shop
+cảm ơn
+thanks
+ok cảm ơn
+thank you
+ok cảm ơn
+cảm ơn shop
+cảm ơn
+thank you
+cảm ơn shop
+cảm ơn shop
+ok cảm ơn
+ok cảm ơn
+thanks
+ok cảm ơn
+thanks
+thank you
+thank you
+thanks
+ok cảm ơn
+cảm ơn shop
+thanks
+thank you
+thank you
+thank you
+cảm ơn shop
+thank you
+cảm ơn
+cảm ơn shop
+thank you
+cảm ơn
+thank you
+thank you
+thank you
+thank you
+thank you
+cảm ơn
+cảm ơn shop
+cảm ơn shop
+cảm ơn shop
+thanks
+cảm ơn shop
+cảm ơn shop
+thanks
+thanks
+cảm ơn
+cảm ơn
+ok cảm ơn
+thanks
+ok cảm ơn
+cảm ơn
+thanks
+thank you
+ok cảm ơn
+thank you
+cảm ơn shop
+ok cảm ơn
+ok cảm ơn
+thanks
+ok cảm ơn
+cảm ơn shop
+thanks
+thank you
+ok cảm ơn
+thank you
+ok cảm ơn
+thanks
+cảm ơn shop
+thank you
+cảm ơn shop
+ok cảm ơn
+thank you
+thanks
+thank you
+thank you
+thank you
+thanks
+cảm ơn shop
+cảm ơn shop
+cảm ơn
+ok cảm ơn
+thank you
+cảm ơn
+cảm ơn shop
+cảm ơn
+cảm ơn shop
+thank you
+[goodbye]
+chào nhé
+tạm biệt
+bye
+tạm biệt
+hẹn gặp lại
+tạm biệt
+hẹn gặp lại
+chào nhé
+bye
+chào nhé
+hẹn gặp lại
+hẹn gặp lại
+tạm biệt
+chào nhé
+tạm biệt
+tạm biệt
+bye
+tạm biệt
+chào nhé
+hẹn gặp lại
+chào nhé
+chào nhé
+bye
+bye
+chào nhé
+chào nhé
+chào nhé
+chào nhé
+tạm biệt
+chào nhé
+tạm biệt
+tạm biệt
+chào nhé
+hẹn gặp lại
+hẹn gặp lại
+hẹn gặp lại
+hẹn gặp lại
+hẹn gặp lại
+chào nhé
+bye
+bye
+bye
+hẹn gặp lại
+bye
+chào nhé
+hẹn gặp lại
+tạm biệt
+chào nhé
+bye
+tạm biệt
+chào nhé
+bye
+tạm biệt
+bye
+hẹn gặp lại
+chào nhé
+chào nhé
+tạm biệt
+tạm biệt
+bye
+bye
+hẹn gặp lại
+tạm biệt
+tạm biệt
+chào nhé
+hẹn gặp lại
+hẹn gặp lại
+chào nhé
+chào nhé
+hẹn gặp lại
+hẹn gặp lại
+chào nhé
+hẹn gặp lại
+tạm biệt
+tạm biệt
+tạm biệt
+bye
+bye
+bye
+chào nhé
+chào nhé
+chào nhé
+hẹn gặp lại
+chào nhé
+chào nhé
+chào nhé
+chào nhé
+chào nhé
+tạm biệt
+chào nhé
+bye
+bye
+chào nhé
+chào nhé
+chào nhé
+tạm biệt
+hẹn gặp lại
+hẹn gặp lại
+bye
+chào nhé
+tạm biệt
+chào nhé
+hẹn gặp lại
+tạm biệt
+bye
+bye
+tạm biệt
+bye
+hẹn gặp lại
+hẹn gặp lại
+chào nhé
+bye
+bye
+bye
+tạm biệt
+chào nhé
+chào nhé
+hẹn gặp lại
+hẹn gặp lại
+hẹn gặp lại
+[size]
+với chiều cao 179 cân nặng 66 thì mặc size gì
+với chiều cao 170 cân nặng 69 thì mặc size gì
+tư vấn size cho người cao 152 nặng 52
+tư vấn size cho người cao 179 nặng 89
+cao 166cm nặng 41
+tôi cao 145 nặng 72kg
+với chiều cao 183 cân nặng 64 thì mặc size gì
+tôi cao 147 nặng 58kg
+cao 151cm nặng 46
+tôi cao 173 nặng 84kg
+tôi cao 152 nặng 43kg
+tư vấn size cho người cao 160 nặng 77
+cao 173cm nặng 79
+tôi cao 159 nặng 85kg
+tôi cao 146 nặng 65kg
+với chiều cao 175 cân nặng 41 thì mặc size gì
+với chiều cao 147 cân nặng 80 thì mặc size gì
+tư vấn size cho người cao 146 nặng 57
+cao 169cm nặng 46
+tôi cao 145 nặng 63kg
+với chiều cao 150 cân nặng 43 thì mặc size gì
+tôi cao 145 nặng 60kg
+tư vấn size cho người cao 149 nặng 57
+với chiều cao 183 cân nặng 75 thì mặc size gì
+cao 150cm nặng 85
+với chiều cao 155 cân nặng 58 thì mặc size gì
+cao 180cm nặng 54
+với chiều cao 165 cân nặng 55 thì mặc size gì
+với chiều cao 178 cân nặng 78 thì mặc size gì
+cao 148cm nặng 85
+tư vấn size cho người cao 184 nặng 55
+tôi cao 165 nặng 51kg
+tôi cao 184 nặng 63kg
+tư vấn size cho người cao 158 nặng 71
+cao 184cm nặng 87
+tôi cao 146 nặng 59kg
+tôi cao 180 nặng 42kg
+tôi cao 163 nặng 63kg
+tư vấn size cho người cao 159 nặng 68
+tôi cao 178 nặng 61kg
+tư vấn size cho người cao 169 nặng 60
+cao 168cm nặng 84
+tư vấn size cho người cao 169 nặng 73
+với chiều cao 160 cân nặng 88 thì mặc size gì
+tôi cao 180 nặng 63kg
+tôi cao 164 nặng 65kg
+tôi cao 181 nặng 48kg
+tư vấn size cho người cao 164 nặng 88
+với chiều cao 165 cân nặng 48 thì mặc size gì
+tư vấn size cho người cao 158 nặng 44
+tư vấn size cho người cao 170 nặng 88
+với chiều cao 154 cân nặng 60 thì mặc size gì
+tôi cao 156 nặng 68kg
+cao 166cm nặng 51
+tư vấn size cho người cao 180 nặng 83
+với chiều cao 171 cân nặng 87 thì mặc size gì
+với chiều cao 157 cân nặng 87 thì mặc size gì
+với chiều cao 164 cân nặng 40 thì mặc size gì
+với chiều cao 152 cân nặng 55 thì mặc size gì
+tôi cao 173 nặng 73kg
+với chiều cao 150 cân nặng 50 thì mặc size gì
+với chiều cao 184 cân nặng 80 thì mặc size gì
+cao 179cm nặng 53
+cao 147cm nặng 53
+với chiều cao 167 cân nặng 59 thì mặc size gì
+tôi cao 165 nặng 73kg
+tôi cao 176 nặng 80kg
+với chiều cao 181 cân nặng 70 thì mặc size gì
+cao 147cm nặng 59
+với chiều cao 169 cân nặng 56 thì mặc size gì
+tôi cao 168 nặng 59kg
+với chiều cao 151 cân nặng 41 thì mặc size gì
+tôi cao 163 nặng 63kg
+cao 152cm nặng 64
+với chiều cao 155 cân nặng 55 thì mặc size gì
+tư vấn size cho người cao 167 nặng 49
+tư vấn size cho người cao 150 nặng 65
+cao 167cm nặng 50
+cao 159cm nặng 59
+tư vấn size cho người cao 165 nặng 48
+cao 180cm nặng 60
+cao 175cm nặng 76
+tôi cao 158 nặng 80kg
+tôi cao 172 nặng 66kg
+tôi cao 182 nặng 57kg
+tôi cao 164 nặng 69kg
+với chiều cao 155 cân nặng 69 thì mặc size gì
+tôi cao 162 nặng 79kg
+cao 174cm nặng 82
+tư vấn size cho người cao 153 nặng 54
+tư vấn size cho người cao 182 nặng 69
+với chiều cao 163 cân nặng 50 thì mặc size gì
+với chiều cao 170 cân nặng 67 thì mặc size gì
+tôi cao 149 nặng 69kg
+cao 172cm nặng 82
+tôi cao 174 nặng 41kg
+với chiều cao 158 cân nặng 47 thì mặc size gì
+tôi cao 164 nặng 68kg
+cao 179cm nặng 89
+tư vấn size cho người cao 167 nặng 64
+tư vấn size cho người cao 148 nặng 84
+cao 181cm nặng 66
+cao 148cm nặng 76
+cao 171cm nặng 42
+tư vấn size cho người cao 167 nặng 48
+cao 180cm nặng 79
+cao 163cm nặng 42
+tôi cao 164 nặng 54kg
+tôi cao 152 nặng 43kg
+cao 180cm nặng 72
+tư vấn size cho người cao 161 nặng 41
+cao 170cm nặng 50
+tư vấn size cho người cao 149 nặng 89
+với chiều cao 157 cân nặng 86 thì mặc size gì
+tư vấn size cho người cao 145 nặng 62
+tôi cao 145 nặng 81kg
+cao 182cm nặng 50
+cao 165cm nặng 46
+với chiều cao 181 cân nặng 52 thì mặc size gì
+tôi cao 154 nặng 62kg
+[product]
+shop có bán áo không
+có quần không
+có đồ nữ không
+có váy không
+có váy không
+shop có bán áo không
+có quần không
+có đồ nữ không
+có quần không
+có quần không
+có quần không
+shop có bán áo không
+shop có bán áo không
+có áo sơ mi không
+shop có bán áo không
+có váy không
+có quần không
+có áo sơ mi không
+shop có bán áo không
+có quần không
+có đồ nữ không
+shop có bán áo không
+có áo sơ mi không
+có áo sơ mi không
+có áo sơ mi không
+có áo sơ mi không
+shop có bán áo không
+có quần không
+có quần không
+shop có bán áo không
+có áo sơ mi không
+shop có bán áo không
+có quần không
+có quần không
+có váy không
+có đồ nữ không
+có đồ nữ không
+shop có bán áo không
+có đồ nữ không
+có quần không
+có đồ nữ không
+có quần không
+có váy không
+có váy không
+có quần không
+có đồ nữ không
+có áo sơ mi không
+có váy không
+có áo sơ mi không
+có áo sơ mi không
+có quần không
+có áo sơ mi không
+có váy không
+có váy không
+shop có bán áo không
+có quần không
+có váy không
+có quần không
+shop có bán áo không
+có đồ nữ không
+có quần không
+shop có bán áo không
+có áo sơ mi không
+shop có bán áo không
+có đồ nữ không
+shop có bán áo không
+có đồ nữ không
+có quần không
+có đồ nữ không
+shop có bán áo không
+có quần không
+có đồ nữ không
+có quần không
+có đồ nữ không
+shop có bán áo không
+có quần không
+có đồ nữ không
+có quần không
+có quần không
+có váy không
+có váy không
+có đồ nữ không
+có đồ nữ không
+shop có bán áo không
+có váy không
+có đồ nữ không
+có váy không
+có áo sơ mi không
+có quần không
+shop có bán áo không
+có áo sơ mi không
+có váy không
+shop có bán áo không
+shop có bán áo không
+có váy không
+shop có bán áo không
+có váy không
+có váy không
+có đồ nữ không
+có đồ nữ không
+shop có bán áo không
+có đồ nữ không
+có áo sơ mi không
+có quần không
+có đồ nữ không
+có quần không
+có váy không
+có quần không
+shop có bán áo không
+shop có bán áo không
+có quần không
+có áo sơ mi không
+có quần không
+shop có bán áo không
+có quần không
+có áo sơ mi không
+có áo sơ mi không
+có váy không
+có đồ nữ không
+shop có bán áo không
+[price]
+giá sản phẩm này
+giá sản phẩm này
+áo này giá bao nhiêu
+bao nhiêu tiền
+bao nhiêu tiền
+áo này giá bao nhiêu
+giá bao nhiêu
+bao nhiêu tiền
+giá sản phẩm này
+bao nhiêu tiền
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+bao nhiêu tiền
+giá sản phẩm này
+bao nhiêu tiền
+bao nhiêu tiền
+giá sản phẩm này
+áo này giá bao nhiêu
+giá sản phẩm này
+bao nhiêu tiền
+giá sản phẩm này
+giá sản phẩm này
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+bao nhiêu tiền
+giá bao nhiêu
+bao nhiêu tiền
+giá bao nhiêu
+giá sản phẩm này
+giá sản phẩm này
+bao nhiêu tiền
+áo này giá bao nhiêu
+bao nhiêu tiền
+áo này giá bao nhiêu
+bao nhiêu tiền
+giá sản phẩm này
+bao nhiêu tiền
+giá bao nhiêu
+bao nhiêu tiền
+bao nhiêu tiền
+áo này giá bao nhiêu
+giá bao nhiêu
+áo này giá bao nhiêu
+giá bao nhiêu
+bao nhiêu tiền
+giá sản phẩm này
+bao nhiêu tiền
+bao nhiêu tiền
+giá sản phẩm này
+bao nhiêu tiền
+giá sản phẩm này
+bao nhiêu tiền
+áo này giá bao nhiêu
+giá sản phẩm này
+giá sản phẩm này
+áo này giá bao nhiêu
+giá sản phẩm này
+giá sản phẩm này
+bao nhiêu tiền
+giá sản phẩm này
+bao nhiêu tiền
+bao nhiêu tiền
+giá sản phẩm này
+áo này giá bao nhiêu
+bao nhiêu tiền
+bao nhiêu tiền
+giá sản phẩm này
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+giá sản phẩm này
+áo này giá bao nhiêu
+giá sản phẩm này
+áo này giá bao nhiêu
+giá sản phẩm này
+giá bao nhiêu
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+bao nhiêu tiền
+áo này giá bao nhiêu
+giá sản phẩm này
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+giá sản phẩm này
+áo này giá bao nhiêu
+giá sản phẩm này
+áo này giá bao nhiêu
+giá sản phẩm này
+bao nhiêu tiền
+giá bao nhiêu
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+bao nhiêu tiền
+bao nhiêu tiền
+giá bao nhiêu
+giá sản phẩm này
+giá bao nhiêu
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+áo này giá bao nhiêu
+giá bao nhiêu
+áo này giá bao nhiêu
+giá sản phẩm này
+giá sản phẩm này
+giá bao nhiêu
+giá sản phẩm này
+bao nhiêu tiền
+giá bao nhiêu
+bao nhiêu tiền
+áo này giá bao nhiêu
+bao nhiêu tiền
+giá bao nhiêu
+áo này giá bao nhiêu
+giá bao nhiêu
+giá bao nhiêu
+giá sản phẩm này
+áo này giá bao nhiêu
+giá bao nhiêu
+[fashion]
+phối đồ cho nữ
+phối đồ đi chơi
+phối đồ đi chơi
+phối đồ đi chơi
+phối đồ cho nữ
+phối đồ cho nữ
+phối đồ đi làm
+phối đồ đi làm
+phối đồ cho nữ
+phối đồ đẹp
+phối đồ đẹp
+phối đồ đi chơi
+phối đồ đi chơi
+phối đồ đẹp
+phối đồ đi làm
+phối đồ đi chơi
+phối đồ cho nữ
+phối đồ đẹp
+phối đồ đi làm
+phối đồ cho nữ
+phối đồ đi làm
+phối đồ đi làm
+phối đồ đi làm
+phối đồ đi chơi
+phối đồ đẹp
+phối đồ cho nữ
+phối đồ đi chơi
+phối đồ đi làm
+phối đồ đẹp
+phối đồ đi chơi
+phối đồ đẹp
+phối đồ đi chơi
+phối đồ đi chơi
+phối đồ đi chơi
+phối đồ đi làm
+phối đồ cho nữ
+phối đồ đi làm
+phối đồ cho nữ
+phối đồ cho nữ
+phối đồ cho nữ
+phối đồ đi làm
+phối đồ đi làm
+phối đồ đẹp
+phối đồ đẹp
+phối đồ đi làm
+phối đồ đi làm
+phối đồ đi làm
+phối đồ đi làm
+phối đồ cho nữ
+phối đồ đi làm
+phối đồ đi làm
+phối đồ đẹp
+phối đồ đẹp
+phối đồ đi làm
+phối đồ đi chơi
+phối đồ đi chơi
+phối đồ đi làm
+phối đồ đẹp
+phối đồ đẹp
+phối đồ đi làm
+phối đồ đi chơi
+phối đồ đi làm
+phối đồ cho nữ
+phối đồ đẹp
+phối đồ đi làm
+phối đồ đi làm
+phối đồ đẹp
+phối đồ cho nữ
+phối đồ cho nữ
+phối đồ đẹp
+phối đồ đi làm
+phối đồ đẹp
+phối đồ đi làm
+phối đồ đi chơi
+phối đồ đi chơi
+phối đồ đẹp
+phối đồ cho nữ
+phối đồ đẹp
+phối đồ đi chơi
+phối đồ cho nữ
+phối đồ đi làm
+phối đồ đẹp
+phối đồ cho nữ
+phối đồ cho nữ
+phối đồ đẹp
+phối đồ cho nữ
+phối đồ đẹp
+phối đồ đẹp
+phối đồ đi chơi
+phối đồ cho nữ
+phối đồ đi làm
+phối đồ đi làm
+phối đồ đẹp
+phối đồ đẹp
+phối đồ cho nữ
+phối đồ đi chơi
+phối đồ đẹp
+phối đồ đẹp
+phối đồ đi làm
+phối đồ đi làm
+phối đồ đi chơi
+phối đồ đẹp
+phối đồ cho nữ
+phối đồ đi làm
+phối đồ đi chơi
+phối đồ đi làm
+phối đồ đẹp
+phối đồ cho nữ
+phối đồ đi chơi
+phối đồ đi làm
+phối đồ đẹp
+phối đồ đẹp
+phối đồ cho nữ
+phối đồ cho nữ
+phối đồ đi làm
+phối đồ cho nữ
+phối đồ đi làm
+phối đồ đẹp
+phối đồ đi làm
+phối đồ đẹp
+[style]
+mặc gì cho nữ
+mặc gì đi chơi
+mặc gì cho nam
+mặc gì đi tiệc
+mặc gì đi tiệc
+mặc gì cho nữ
+mặc gì đi tiệc
+mặc gì cho nam
+mặc gì đi tiệc
+mặc gì đi tiệc
+mặc gì cho nữ
+mặc gì cho nam
+mặc gì đi chơi
+mặc gì cho nữ
+mặc gì cho nam
+mặc gì cho nữ
+mặc gì cho nữ
+mặc gì đi tiệc
+mặc gì đi chơi
+mặc gì cho nam
+mặc gì cho nam
+mặc gì cho nam
+mặc gì đi tiệc
+mặc gì cho nữ
+mặc gì cho nam
+mặc gì cho nam
+mặc gì cho nam
+mặc gì đi chơi
+mặc gì đi chơi
+mặc gì đi chơi
+mặc gì đi chơi
+mặc gì cho nữ
+mặc gì đi chơi
+mặc gì cho nam
+mặc gì cho nam
+mặc gì cho nam
+mặc gì đi tiệc
+mặc gì cho nam
+mặc gì cho nữ
+mặc gì cho nam
+mặc gì cho nam
+mặc gì đi chơi
+mặc gì cho nam
+mặc gì đi tiệc
+mặc gì cho nữ
+mặc gì đi chơi
+mặc gì đi chơi
+mặc gì cho nam
+mặc gì đi tiệc
+mặc gì đi chơi
+mặc gì đi chơi
+mặc gì cho nữ
+mặc gì đi chơi
+mặc gì cho nữ
+mặc gì cho nữ
+mặc gì đi chơi
+mặc gì cho nữ
+mặc gì cho nam
+mặc gì đi chơi
+mặc gì đi tiệc
+mặc gì đi chơi
+mặc gì cho nam
+mặc gì đi chơi
+mặc gì cho nam
+mặc gì đi chơi
+mặc gì đi chơi
+mặc gì đi chơi
+mặc gì đi chơi
+mặc gì cho nữ
+mặc gì đi chơi
+mặc gì đi tiệc
+mặc gì cho nam
+mặc gì cho nam
+mặc gì cho nữ
+mặc gì đi tiệc
+mặc gì cho nữ
+mặc gì đi tiệc
+mặc gì cho nữ
+mặc gì cho nam
+mặc gì cho nữ
+mặc gì cho nam
+mặc gì đi tiệc
+mặc gì đi chơi
+mặc gì đi tiệc
+mặc gì cho nữ
+mặc gì cho nam
+mặc gì đi tiệc
+mặc gì đi tiệc
+mặc gì đi tiệc
+mặc gì đi chơi
+mặc gì đi tiệc
+mặc gì cho nam
+mặc gì đi tiệc
+mặc gì đi tiệc
+mặc gì cho nam
+mặc gì cho nữ
+mặc gì cho nữ
+mặc gì cho nam
+mặc gì cho nam
+mặc gì đi tiệc
+mặc gì đi chơi
+mặc gì đi chơi
+mặc gì đi chơi
+mặc gì cho nam
+mặc gì cho nam
+mặc gì cho nữ
+mặc gì cho nam
+mặc gì cho nam
+mặc gì cho nữ
+mặc gì đi tiệc
+mặc gì đi chơi
+mặc gì đi tiệc
+mặc gì cho nam
+mặc gì đi chơi
+mặc gì cho nam
+mặc gì cho nam
+mặc gì đi chơi
+mặc gì cho nam
+mặc gì đi chơi
+mặc gì đi chơi
+[shipping]
+giao hàng trong mấy ngày
+shop có giao hàng không
+ship mất bao lâu
+shop có giao hàng không
+giao hàng trong mấy ngày
+ship mất bao lâu
+ship mất bao lâu
+shop có giao hàng không
+giao hàng trong mấy ngày
+shop có giao hàng không
+shop có giao hàng không
+ship mất bao lâu
+shop có giao hàng không
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+ship mất bao lâu
+shop có giao hàng không
+giao hàng trong mấy ngày
+shop có giao hàng không
+shop có giao hàng không
+ship mất bao lâu
+shop có giao hàng không
+ship mất bao lâu
+ship mất bao lâu
+shop có giao hàng không
+giao hàng trong mấy ngày
+shop có giao hàng không
+giao hàng trong mấy ngày
+ship mất bao lâu
+ship mất bao lâu
+giao hàng trong mấy ngày
+shop có giao hàng không
+giao hàng trong mấy ngày
+ship mất bao lâu
+shop có giao hàng không
+giao hàng trong mấy ngày
+shop có giao hàng không
+ship mất bao lâu
+giao hàng trong mấy ngày
+ship mất bao lâu
+ship mất bao lâu
+giao hàng trong mấy ngày
+ship mất bao lâu
+giao hàng trong mấy ngày
+ship mất bao lâu
+ship mất bao lâu
+shop có giao hàng không
+giao hàng trong mấy ngày
+ship mất bao lâu
+ship mất bao lâu
+ship mất bao lâu
+shop có giao hàng không
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+ship mất bao lâu
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+shop có giao hàng không
+shop có giao hàng không
+shop có giao hàng không
+shop có giao hàng không
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+ship mất bao lâu
+shop có giao hàng không
+shop có giao hàng không
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+shop có giao hàng không
+shop có giao hàng không
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+ship mất bao lâu
+ship mất bao lâu
+ship mất bao lâu
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+shop có giao hàng không
+ship mất bao lâu
+shop có giao hàng không
+ship mất bao lâu
+shop có giao hàng không
+shop có giao hàng không
+shop có giao hàng không
+ship mất bao lâu
+shop có giao hàng không
+ship mất bao lâu
+shop có giao hàng không
+shop có giao hàng không
+shop có giao hàng không
+ship mất bao lâu
+shop có giao hàng không
+shop có giao hàng không
+giao hàng trong mấy ngày
+shop có giao hàng không
+shop có giao hàng không
+giao hàng trong mấy ngày
+shop có giao hàng không
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+ship mất bao lâu
+giao hàng trong mấy ngày
+shop có giao hàng không
+ship mất bao lâu
+giao hàng trong mấy ngày
+shop có giao hàng không
+ship mất bao lâu
+ship mất bao lâu
+shop có giao hàng không
+shop có giao hàng không
+ship mất bao lâu
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+giao hàng trong mấy ngày
+shop có giao hàng không
+shop có giao hàng không
+[policy]
+đổi size được không
+đổi size được không
+đổi size được không
+có đổi trả không
+chính sách đổi trả
+có đổi trả không
+chính sách đổi trả
+có đổi trả không
+chính sách đổi trả
+đổi size được không
+có đổi trả không
+chính sách đổi trả
+đổi size được không
+đổi size được không
+có đổi trả không
+đổi size được không
+có đổi trả không
+có đổi trả không
+chính sách đổi trả
+chính sách đổi trả
+có đổi trả không
+có đổi trả không
+đổi size được không
+có đổi trả không
+chính sách đổi trả
+chính sách đổi trả
+đổi size được không
+chính sách đổi trả
+đổi size được không
+chính sách đổi trả
+chính sách đổi trả
+chính sách đổi trả
+đổi size được không
+có đổi trả không
+có đổi trả không
+đổi size được không
+có đổi trả không
+đổi size được không
+đổi size được không
+đổi size được không
+có đổi trả không
+chính sách đổi trả
+có đổi trả không
+chính sách đổi trả
+chính sách đổi trả
+chính sách đổi trả
+chính sách đổi trả
+có đổi trả không
+có đổi trả không
+đổi size được không
+đổi size được không
+đổi size được không
+chính sách đổi trả
+có đổi trả không
+có đổi trả không
+đổi size được không
+có đổi trả không
+có đổi trả không
+chính sách đổi trả
+chính sách đổi trả
+đổi size được không
+có đổi trả không
+có đổi trả không
+chính sách đổi trả
+chính sách đổi trả
+đổi size được không
+đổi size được không
+đổi size được không
+chính sách đổi trả
+có đổi trả không
+đổi size được không
+chính sách đổi trả
+chính sách đổi trả
+có đổi trả không
+có đổi trả không
+chính sách đổi trả
+có đổi trả không
+có đổi trả không
+chính sách đổi trả
+đổi size được không
+đổi size được không
+có đổi trả không
+chính sách đổi trả
+chính sách đổi trả
+đổi size được không
+chính sách đổi trả
+chính sách đổi trả
+có đổi trả không
+chính sách đổi trả
+chính sách đổi trả
+chính sách đổi trả
+chính sách đổi trả
+có đổi trả không
+chính sách đổi trả
+có đổi trả không
+đổi size được không
+có đổi trả không
+chính sách đổi trả
+có đổi trả không
+đổi size được không
+chính sách đổi trả
+đổi size được không
+chính sách đổi trả
+đổi size được không
+đổi size được không
+có đổi trả không
+chính sách đổi trả
+có đổi trả không
+đổi size được không
+đổi size được không
+có đổi trả không
+chính sách đổi trả
+đổi size được không
+chính sách đổi trả
+đổi size được không
+có đổi trả không
+đổi size được không
+có đổi trả không
+chính sách đổi trả
+đổi size được không
