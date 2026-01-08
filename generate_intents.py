@@ -1,87 +1,74 @@
 import random
 
-templates = {
+intents = {
     "greeting": [
-        "xin chào", "chào bạn", "hello", "hi", "chào shop",
-        "shop ơi", "alo", "chào buổi sáng", "chào buổi tối"
+        "hello", "hi", "chào", "chào bạn", "xin chào", "chào shop",
+        "alo", "hey", "chào buổi sáng", "chào buổi tối"
     ],
-
-    "thanks": [
-        "cảm ơn", "thanks", "cảm ơn shop", "ok cảm ơn", "thank you"
-    ],
-
     "goodbye": [
-        "tạm biệt", "bye", "hẹn gặp lại", "chào nhé"
+        "tạm biệt", "bye", "hẹn gặp lại", "chào nhé", "chúc shop vui"
     ],
-
-    "size": [
-        "tôi cao {h} nặng {w}kg",
-        "cao {h}cm nặng {w}",
-        "với chiều cao {h} cân nặng {w} thì mặc size gì",
-        "tư vấn size cho người cao {h} nặng {w}"
+    "thanks": [
+        "cảm ơn", "thanks", "cảm ơn nhiều", "rất cảm ơn", "ok cảm ơn"
     ],
-
     "product": [
-        "shop có bán áo không",
-        "có quần không",
-        "có váy không",
-        "có áo sơ mi không",
-        "có đồ nữ không"
+        "shop có áo không", "shop bán quần không", "có váy không",
+        "mình muốn mua áo", "mình muốn xem sản phẩm"
     ],
-
     "price": [
-        "giá bao nhiêu",
-        "bao nhiêu tiền",
-        "giá sản phẩm này",
-        "áo này giá bao nhiêu"
+        "giá bao nhiêu", "áo này giá bao nhiêu", "bao nhiêu tiền",
+        "mắc không", "giá thế nào"
     ],
-
     "fashion": [
-        "phối đồ đi chơi",
-        "phối đồ đi làm",
-        "phối đồ đẹp",
-        "phối đồ cho nữ"
+        "phối đồ sao cho đẹp", "tư vấn phong cách", "mặc sao cho đẹp",
+        "gợi ý phối đồ", "tư vấn thời trang"
     ],
-
     "style": [
-        "mặc gì đi tiệc",
-        "mặc gì đi chơi",
-        "mặc gì cho nữ",
-        "mặc gì cho nam"
+        "phong cách trẻ trung", "phong cách công sở",
+        "phong cách cá tính", "style hàn quốc", "style vintage"
     ],
-
     "shipping": [
-        "shop có giao hàng không",
-        "ship mất bao lâu",
-        "giao hàng trong mấy ngày"
+        "ship không", "giao hàng không", "bao lâu nhận được",
+        "có ship cod không", "phí ship bao nhiêu"
     ],
-
     "policy": [
-        "có đổi trả không",
-        "chính sách đổi trả",
-        "đổi size được không"
+        "đổi trả thế nào", "chính sách bảo hành",
+        "có được trả hàng không", "đổi size được không",
+        "chính sách shop thế nào"
     ]
 }
 
-heights = range(145, 185)
-weights = range(40, 90)
+def expand(sentence):
+    variants = [
+        sentence,
+        "cho mình hỏi " + sentence,
+        "mình muốn biết " + sentence,
+        sentence + " vậy",
+        sentence + " ạ",
+        "shop ơi " + sentence,
+        "bạn ơi " + sentence
+    ]
+    return variants
 
-output = []
+output = ""
 
-for intent, sentences in templates.items():
-    output.append(f"[{intent}]")
+for intent, samples in intents.items():
+    output += f"\n[{intent}]\n"
+    all_sentences = []
+    for s in samples:
+        all_sentences.extend(expand(s))
 
-    for _ in range(120):   # 120 x 8 intents ≈ 960 câu
-        s = random.choice(sentences)
+    random.shuffle(all_sentences)
+    all_sentences = list(set(all_sentences))
 
-        if "{h}" in s:
-            s = s.replace("{h}", str(random.choice(heights)))
-        if "{w}" in s:
-            s = s.replace("{w}", str(random.choice(weights)))
+    while len(all_sentences) < 550:
+        base = random.choice(samples)
+        all_sentences.append(random.choice(expand(base)))
 
-        output.append(s)
+    for s in all_sentences[:550]:
+        output += s + "\n"
 
-with open("intents.txt", "w", encoding="utf-8") as f:
-    f.write("\n".join(output))
+with open("intentsmore.txt", "w", encoding="utf-8") as f:
+    f.write(output)
 
-print("Đã tạo intents.txt ~1000 câu hỏi!")
+print("Đã tạo intentssmore.txt ~ 5000 câu")

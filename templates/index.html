@@ -1,26 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Fashion AI Chatbot</title>
+    <title>AI Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-    <h2>Fashion AI Chatbot</h2>
-    <input id="msg" placeholder="Nhập câu hỏi..." />
-    <button onclick="send()">Gửi</button>
-    <p id="reply"></p>
+<div class="chat-container">
+    <div class="chat-header">🤖 AI Chatbot</div>
+    <div class="chat-box" id="chatBox"></div>
+    <div class="chat-input">
+        <input id="userInput" placeholder="Nhập tin nhắn..." onkeypress="handleKey(event)">
+        <button onclick="sendMessage()">Gửi</button>
+    </div>
+</div>
 
-    <script>
-        function send() {
-            fetch("/chat", {
-                method: "POST",
-                headers: {"Content-Type":"application/json"},
-                body: JSON.stringify({message: document.getElementById("msg").value})
-            })
-            .then(res => res.json())
-            .then(data => {
-                document.getElementById("reply").innerText = data.reply;
-            })
-        }
-    </script>
+<script src="/static/script.js"></script>
 </body>
 </html>

@@ -23,8 +23,8 @@ RESPONSES = {
         "Chúc bạn một ngày vui vẻ!"
     ],
     "size": [
-        "Bạn cho mình chiều cao, cân nặng và giới tính để mình tư vấn size chuẩn nhé.",
-        "Bạn cao bao nhiêu cm và nặng bao nhiêu kg để mình chọn size phù hợp?"
+    "Mình sẽ sớm có hệ thống tư vấn size thông minh hơn, hiện tại mình có thể tư vấn phong cách cho bạn nhé 👕",
+    "Phần size mình đang nâng cấp, bạn có thể hỏi mình về sản phẩm hoặc phối đồ nha."
     ],
     "product": [
         "Bạn đang quan tâm áo, quần hay váy để mình gợi ý cho bạn?",
@@ -68,7 +68,12 @@ def chat():
     intent = model.classes_[best_index]
 
     if confidence < 0.35:
-        reply = "Mình chỉ hỗ trợ tư vấn về thời trang, bạn hỏi lại giúp mình rõ hơn nhé 👗"
+        reply = random.choice([
+            "Mình chưa hiểu rõ lắm, bạn hỏi lại giúp mình nhé 👗",
+            "Câu hỏi này chưa thuộc lĩnh vực thời trang, bạn hỏi lại được không?",
+            "Bạn có thể hỏi mình về quần áo, phong cách hoặc size nhé."
+        ])
+
     else:
         reply = random.choice(RESPONSES.get(intent, [
             "Mình chưa hiểu rõ, bạn hỏi lại giúp mình nhé."

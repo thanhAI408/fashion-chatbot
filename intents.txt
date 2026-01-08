@@ -1,1210 +1,1267 @@
 [greeting]
+
 hello
-chào buổi tối
+hi
+chào
 chào bạn
+chào shop
+chào bot
+chào nhé
+chào buổi sáng
+chào buổi tối
+chào buổi chiều
 alo
-hi
-chào buổi sáng
-chào buổi sáng
-chào buổi sáng
+alo shop
+hey
 xin chào
-xin chào
-chào buổi sáng
-hello
-chào bạn
-alo
-xin chào
-xin chào
-shop ơi
-chào bạn
-chào buổi tối
-hello
-chào shop
-hello
-chào buổi tối
-hi
-chào bạn
-chào buổi tối
-xin chào
-chào bạn
-xin chào
-xin chào
-chào shop
-chào buổi sáng
-hi
-chào shop
-shop ơi
-xin chào
-chào buổi tối
-chào buổi sáng
-chào bạn
-xin chào
-chào buổi sáng
-xin chào
-chào shop
-hi
-alo
-chào buổi tối
-chào buổi sáng
-hello
-xin chào
-hi
-shop ơi
-alo
-hello
-shop ơi
-hello
-chào shop
-chào buổi tối
-xin chào
-hi
-shop ơi
-shop ơi
-chào bạn
-alo
-chào buổi tối
-shop ơi
-chào shop
-hello
-chào buổi tối
-chào shop
-chào shop
-hello
-shop ơi
-chào buổi sáng
-chào buổi tối
-hi
-hi
-chào bạn
-chào bạn
-hi
-hi
-alo
-xin chào
-hi
-shop ơi
-chào buổi sáng
-xin chào
-xin chào
-chào buổi sáng
-hello
-shop ơi
-chào bạn
-hi
-chào buổi tối
-chào shop
-alo
-chào buổi tối
-hi
-xin chào
-shop ơi
-alo
-hello
-chào shop
-chào bạn
-xin chào
-alo
-chào shop
-chào buổi tối
-hi
-chào buổi tối
-chào shop
-hi
-chào bạn
-hi
-hi
-alo
-chào bạn
-chào buổi tối
-shop ơi
-chào buổi tối
-chào bạn
-[thanks]
-ok cảm ơn
-thank you
-cảm ơn shop
-cảm ơn shop
-thank you
-thank you
-ok cảm ơn
-ok cảm ơn
-thank you
-thanks
-ok cảm ơn
-ok cảm ơn
-cảm ơn
-cảm ơn shop
-ok cảm ơn
-thank you
-thanks
-cảm ơn
-cảm ơn shop
-ok cảm ơn
-thanks
-thank you
-cảm ơn
-thank you
-thank you
-cảm ơn
-cảm ơn
-cảm ơn
-ok cảm ơn
-ok cảm ơn
-thank you
-cảm ơn
-cảm ơn
-cảm ơn shop
-cảm ơn
-thanks
-ok cảm ơn
-thank you
-ok cảm ơn
-cảm ơn shop
-cảm ơn
-thank you
-cảm ơn shop
-cảm ơn shop
-ok cảm ơn
-ok cảm ơn
-thanks
-ok cảm ơn
-thanks
-thank you
-thank you
-thanks
-ok cảm ơn
-cảm ơn shop
-thanks
-thank you
-thank you
-thank you
-cảm ơn shop
-thank you
-cảm ơn
-cảm ơn shop
-thank you
-cảm ơn
-thank you
-thank you
-thank you
-thank you
-thank you
-cảm ơn
-cảm ơn shop
-cảm ơn shop
-cảm ơn shop
-thanks
-cảm ơn shop
-cảm ơn shop
-thanks
-thanks
-cảm ơn
-cảm ơn
-ok cảm ơn
-thanks
-ok cảm ơn
-cảm ơn
-thanks
-thank you
-ok cảm ơn
-thank you
-cảm ơn shop
-ok cảm ơn
-ok cảm ơn
-thanks
-ok cảm ơn
-cảm ơn shop
-thanks
-thank you
-ok cảm ơn
-thank you
-ok cảm ơn
-thanks
-cảm ơn shop
-thank you
-cảm ơn shop
-ok cảm ơn
-thank you
-thanks
-thank you
-thank you
-thank you
-thanks
-cảm ơn shop
-cảm ơn shop
-cảm ơn
-ok cảm ơn
-thank you
-cảm ơn
-cảm ơn shop
-cảm ơn
-cảm ơn shop
-thank you
+hello shop
+hi bot
+chào ad
+chào anh
+chào chị
+chào em
+chào mọi người
+chào nha
+chào nè
+hello bạn
+hi bạn
+alo alo
+chào shop ơi
+hi hi
+hello hello
+chào trợ lý
+chào chatbot
+xin chào bạn
+chào bạn nhé
+chào buổi trưa
+chào buổi khuya
+chào lần đầu
+mới vào chào
+vào chào cái
+chào phát
+chào cho vui
+chào nhẹ
+hello nhẹ
+hi nhẹ
+chào thử
+alo thử
+hi thử
+hello thử
+chào coi
+chào xem
+alo nè
+hi nè
+hello nè
+chào bạn ơi
+alo shop ơi
+hi shop
+hello shop ơi
+chào cửa hàng
+hi cửa hàng
+alo cửa hàng
+hello cửa hàng
+chào hệ thống
+hi hệ thống
+alo hệ thống
+hello hệ thống
+chào trợ lý ơi
+hi trợ lý
+alo trợ lý
+hello trợ lý
+chào bạn hiền
+hi bạn hiền
+alo bạn hiền
+hello bạn hiền
+chào bot ơi
+hi bot ơi
+alo bot ơi
+hello bot ơi
+chào AI
+hi AI
+alo AI
+hello AI
+chào bạn nhỏ
+hi bạn nhỏ
+alo bạn nhỏ
+hello bạn nhỏ
+chào shop nè
+hi shop nè
+alo shop nè
+hello shop nè
+chào admin
+hi admin
+alo admin
+hello admin
+chào quản trị
+hi quản trị
+alo quản trị
+hello quản trị
+
 [goodbye]
-chào nhé
+
 tạm biệt
 bye
-tạm biệt
+bye bye
+chào tạm biệt
 hẹn gặp lại
-tạm biệt
-hẹn gặp lại
+gặp lại sau
+tạm biệt nhé
+bye nha
+bye bạn
+bye shop
+chào nha
 chào nhé
-bye
-chào nhé
-hẹn gặp lại
-hẹn gặp lại
-tạm biệt
-chào nhé
-tạm biệt
-tạm biệt
-bye
-tạm biệt
-chào nhé
-hẹn gặp lại
-chào nhé
-chào nhé
-bye
-bye
-chào nhé
-chào nhé
-chào nhé
-chào nhé
-tạm biệt
-chào nhé
-tạm biệt
-tạm biệt
-chào nhé
-hẹn gặp lại
-hẹn gặp lại
-hẹn gặp lại
-hẹn gặp lại
-hẹn gặp lại
-chào nhé
-bye
-bye
-bye
-hẹn gặp lại
-bye
-chào nhé
-hẹn gặp lại
-tạm biệt
-chào nhé
-bye
-tạm biệt
-chào nhé
-bye
-tạm biệt
-bye
-hẹn gặp lại
-chào nhé
-chào nhé
-tạm biệt
-tạm biệt
-bye
-bye
-hẹn gặp lại
-tạm biệt
-tạm biệt
-chào nhé
-hẹn gặp lại
-hẹn gặp lại
-chào nhé
-chào nhé
-hẹn gặp lại
-hẹn gặp lại
-chào nhé
-hẹn gặp lại
-tạm biệt
-tạm biệt
-tạm biệt
-bye
-bye
-bye
-chào nhé
-chào nhé
-chào nhé
-hẹn gặp lại
-chào nhé
-chào nhé
-chào nhé
-chào nhé
-chào nhé
-tạm biệt
-chào nhé
-bye
-bye
-chào nhé
-chào nhé
-chào nhé
-tạm biệt
-hẹn gặp lại
-hẹn gặp lại
-bye
-chào nhé
-tạm biệt
-chào nhé
-hẹn gặp lại
-tạm biệt
-bye
-bye
-tạm biệt
-bye
-hẹn gặp lại
-hẹn gặp lại
-chào nhé
-bye
-bye
-bye
-tạm biệt
-chào nhé
-chào nhé
-hẹn gặp lại
-hẹn gặp lại
-hẹn gặp lại
-[size]
-với chiều cao 179 cân nặng 66 thì mặc size gì
-với chiều cao 170 cân nặng 69 thì mặc size gì
-tư vấn size cho người cao 152 nặng 52
-tư vấn size cho người cao 179 nặng 89
-cao 166cm nặng 41
-tôi cao 145 nặng 72kg
-với chiều cao 183 cân nặng 64 thì mặc size gì
-tôi cao 147 nặng 58kg
-cao 151cm nặng 46
-tôi cao 173 nặng 84kg
-tôi cao 152 nặng 43kg
-tư vấn size cho người cao 160 nặng 77
-cao 173cm nặng 79
-tôi cao 159 nặng 85kg
-tôi cao 146 nặng 65kg
-với chiều cao 175 cân nặng 41 thì mặc size gì
-với chiều cao 147 cân nặng 80 thì mặc size gì
-tư vấn size cho người cao 146 nặng 57
-cao 169cm nặng 46
-tôi cao 145 nặng 63kg
-với chiều cao 150 cân nặng 43 thì mặc size gì
-tôi cao 145 nặng 60kg
-tư vấn size cho người cao 149 nặng 57
-với chiều cao 183 cân nặng 75 thì mặc size gì
-cao 150cm nặng 85
-với chiều cao 155 cân nặng 58 thì mặc size gì
-cao 180cm nặng 54
-với chiều cao 165 cân nặng 55 thì mặc size gì
-với chiều cao 178 cân nặng 78 thì mặc size gì
-cao 148cm nặng 85
-tư vấn size cho người cao 184 nặng 55
-tôi cao 165 nặng 51kg
-tôi cao 184 nặng 63kg
-tư vấn size cho người cao 158 nặng 71
-cao 184cm nặng 87
-tôi cao 146 nặng 59kg
-tôi cao 180 nặng 42kg
-tôi cao 163 nặng 63kg
-tư vấn size cho người cao 159 nặng 68
-tôi cao 178 nặng 61kg
-tư vấn size cho người cao 169 nặng 60
-cao 168cm nặng 84
-tư vấn size cho người cao 169 nặng 73
-với chiều cao 160 cân nặng 88 thì mặc size gì
-tôi cao 180 nặng 63kg
-tôi cao 164 nặng 65kg
-tôi cao 181 nặng 48kg
-tư vấn size cho người cao 164 nặng 88
-với chiều cao 165 cân nặng 48 thì mặc size gì
-tư vấn size cho người cao 158 nặng 44
-tư vấn size cho người cao 170 nặng 88
-với chiều cao 154 cân nặng 60 thì mặc size gì
-tôi cao 156 nặng 68kg
-cao 166cm nặng 51
-tư vấn size cho người cao 180 nặng 83
-với chiều cao 171 cân nặng 87 thì mặc size gì
-với chiều cao 157 cân nặng 87 thì mặc size gì
-với chiều cao 164 cân nặng 40 thì mặc size gì
-với chiều cao 152 cân nặng 55 thì mặc size gì
-tôi cao 173 nặng 73kg
-với chiều cao 150 cân nặng 50 thì mặc size gì
-với chiều cao 184 cân nặng 80 thì mặc size gì
-cao 179cm nặng 53
-cao 147cm nặng 53
-với chiều cao 167 cân nặng 59 thì mặc size gì
-tôi cao 165 nặng 73kg
-tôi cao 176 nặng 80kg
-với chiều cao 181 cân nặng 70 thì mặc size gì
-cao 147cm nặng 59
-với chiều cao 169 cân nặng 56 thì mặc size gì
-tôi cao 168 nặng 59kg
-với chiều cao 151 cân nặng 41 thì mặc size gì
-tôi cao 163 nặng 63kg
-cao 152cm nặng 64
-với chiều cao 155 cân nặng 55 thì mặc size gì
-tư vấn size cho người cao 167 nặng 49
-tư vấn size cho người cao 150 nặng 65
-cao 167cm nặng 50
-cao 159cm nặng 59
-tư vấn size cho người cao 165 nặng 48
-cao 180cm nặng 60
-cao 175cm nặng 76
-tôi cao 158 nặng 80kg
-tôi cao 172 nặng 66kg
-tôi cao 182 nặng 57kg
-tôi cao 164 nặng 69kg
-với chiều cao 155 cân nặng 69 thì mặc size gì
-tôi cao 162 nặng 79kg
-cao 174cm nặng 82
-tư vấn size cho người cao 153 nặng 54
-tư vấn size cho người cao 182 nặng 69
-với chiều cao 163 cân nặng 50 thì mặc size gì
-với chiều cao 170 cân nặng 67 thì mặc size gì
-tôi cao 149 nặng 69kg
-cao 172cm nặng 82
-tôi cao 174 nặng 41kg
-với chiều cao 158 cân nặng 47 thì mặc size gì
-tôi cao 164 nặng 68kg
-cao 179cm nặng 89
-tư vấn size cho người cao 167 nặng 64
-tư vấn size cho người cao 148 nặng 84
-cao 181cm nặng 66
-cao 148cm nặng 76
-cao 171cm nặng 42
-tư vấn size cho người cao 167 nặng 48
-cao 180cm nặng 79
-cao 163cm nặng 42
-tôi cao 164 nặng 54kg
-tôi cao 152 nặng 43kg
-cao 180cm nặng 72
-tư vấn size cho người cao 161 nặng 41
-cao 170cm nặng 50
-tư vấn size cho người cao 149 nặng 89
-với chiều cao 157 cân nặng 86 thì mặc size gì
-tư vấn size cho người cao 145 nặng 62
-tôi cao 145 nặng 81kg
-cao 182cm nặng 50
-cao 165cm nặng 46
-với chiều cao 181 cân nặng 52 thì mặc size gì
-tôi cao 154 nặng 62kg
-[product]
-shop có bán áo không
+chào tạm biệt nha
+hẹn lần sau
+gặp sau nhé
+tạm biệt shop
+bye bot
+bye trợ lý
+chào bot nha
+tạm biệt bot
+chào trợ lý nha
+bye trợ lý
+hẹn gặp lại nha
+hẹn gặp lại sau
+gặp lại sau nha
+tạm biệt mọi người
+bye mọi người
+chào mọi người
+bye bye nha
+bye bye bạn
+bye bye shop
+tạm biệt bạn
+tạm biệt mọi người nha
+hẹn lần khác
+gặp lần khác
+chào lần sau
+bye lần sau
+tạm biệt lần này
+chào lần này
+gặp lại lần tới
+bye lần tới
+tạm biệt lần tới
+hẹn gặp lần tới
+bye bye lần sau
+chào lần sau nha
+bye nha shop
+bye nha bot
+bye nha trợ lý
+tạm biệt nha shop
+tạm biệt nha bot
+tạm biệt nha trợ lý
+hẹn gặp lại shop
+hẹn gặp lại bot
+hẹn gặp lại trợ lý
+chào kết thúc
+bye kết thúc
+tạm biệt kết thúc
+chào xong
+bye xong
+tạm biệt xong
+chào kết thúc nha
+bye kết thúc nha
+tạm biệt kết thúc nha
+chào rồi
+bye rồi
+tạm biệt rồi
+chào thôi
+bye thôi
+tạm biệt thôi
+chào nhé shop
+bye nhé shop
+tạm biệt nhé shop
+chào nhé bot
+bye nhé bot
+tạm biệt nhé bot
+chào nhé trợ lý
+bye nhé trợ lý
+tạm biệt nhé trợ lý
+chào tạm biệt shop
+chào tạm biệt bot
+chào tạm biệt trợ lý
+bye bye shop
+bye bye bot
+bye bye trợ lý
+hẹn gặp shop
+hẹn gặp bot
+hẹn gặp trợ lý
+gặp lại shop
+gặp lại bot
+gặp lại trợ lý
+chào tạm biệt nha
+bye bye nha shop
+bye bye nha bot
+bye bye nha trợ lý
+
+[thanks]
+
+cảm ơn
+cảm ơn bạn
+cảm ơn shop
+cảm ơn bot
+cảm ơn nhiều
+cảm ơn nhé
+cảm ơn nha
+cảm ơn rất nhiều
+thanks
+thank you
+thank
+thanks bạn
+thanks shop
+thanks bot
+thanks trợ lý
+cảm ơn trợ lý
+cảm ơn admin
+cảm ơn nhiều nha
+cảm ơn rất nhiều nha
+cảm ơn nhiều lắm
+cảm ơn nhiều ạ
+cảm ơn bạn nhé
+cảm ơn shop nhé
+cảm ơn bot nhé
+cảm ơn trợ lý nhé
+thanks nha
+thanks nhiều
+thanks rất nhiều
+thank you nha
+thank you nhiều
+thank you shop
+thank you bot
+thank you trợ lý
+mình cảm ơn
+tôi cảm ơn
+em cảm ơn
+mình xin cảm ơn
+xin cảm ơn
+rất cảm ơn
+rất cảm ơn bạn
+rất cảm ơn shop
+rất cảm ơn bot
+rất cảm ơn trợ lý
+cảm ơn vì đã giúp
+cảm ơn vì hỗ trợ
+cảm ơn vì tư vấn
+thanks vì hỗ trợ
+thanks vì tư vấn
+thanks vì giúp
+thank you vì hỗ trợ
+thank you vì tư vấn
+cảm ơn rất nhiều ạ
+cảm ơn bạn nhiều ạ
+cảm ơn shop nhiều ạ
+cảm ơn bot nhiều ạ
+cảm ơn trợ lý nhiều ạ
+thanks nhiều nha
+thanks nhiều ạ
+thank you nhiều ạ
+cảm ơn rất nhiều luôn
+cảm ơn rất nhiều thật sự
+cảm ơn nhiều thật sự
+thanks thật sự
+thank you thật sự
+
+[product] 
+
+có áo không
 có quần không
-có đồ nữ không
 có váy không
-có váy không
-shop có bán áo không
-có quần không
+có áo khoác không
+có đồ nam không
 có đồ nữ không
-có quần không
-có quần không
-có quần không
-shop có bán áo không
-shop có bán áo không
+có đồ trẻ em không
+bán áo không
+bán quần không
+bán váy không
+bán đồ nam không
+bán đồ nữ không
+bán đồ công sở không
+bán đồ thể thao không
+bán đồ mặc nhà không
 có áo sơ mi không
-shop có bán áo không
-có váy không
-có quần không
-có áo sơ mi không
-shop có bán áo không
-có quần không
-có đồ nữ không
-shop có bán áo không
-có áo sơ mi không
-có áo sơ mi không
-có áo sơ mi không
-có áo sơ mi không
-shop có bán áo không
-có quần không
-có quần không
-shop có bán áo không
-có áo sơ mi không
-shop có bán áo không
-có quần không
-có quần không
-có váy không
-có đồ nữ không
-có đồ nữ không
-shop có bán áo không
-có đồ nữ không
-có quần không
-có đồ nữ không
-có quần không
-có váy không
-có váy không
-có quần không
-có đồ nữ không
-có áo sơ mi không
-có váy không
-có áo sơ mi không
-có áo sơ mi không
-có quần không
-có áo sơ mi không
-có váy không
-có váy không
-shop có bán áo không
-có quần không
-có váy không
-có quần không
-shop có bán áo không
-có đồ nữ không
-có quần không
-shop có bán áo không
-có áo sơ mi không
-shop có bán áo không
-có đồ nữ không
-shop có bán áo không
-có đồ nữ không
-có quần không
-có đồ nữ không
-shop có bán áo không
-có quần không
-có đồ nữ không
-có quần không
-có đồ nữ không
-shop có bán áo không
-có quần không
-có đồ nữ không
-có quần không
-có quần không
-có váy không
-có váy không
-có đồ nữ không
-có đồ nữ không
-shop có bán áo không
-có váy không
-có đồ nữ không
-có váy không
-có áo sơ mi không
-có quần không
-shop có bán áo không
-có áo sơ mi không
-có váy không
-shop có bán áo không
-shop có bán áo không
-có váy không
-shop có bán áo không
-có váy không
-có váy không
-có đồ nữ không
-có đồ nữ không
-shop có bán áo không
-có đồ nữ không
-có áo sơ mi không
-có quần không
-có đồ nữ không
-có quần không
-có váy không
-có quần không
-shop có bán áo không
-shop có bán áo không
-có quần không
-có áo sơ mi không
-có quần không
-shop có bán áo không
-có quần không
-có áo sơ mi không
-có áo sơ mi không
-có váy không
-có đồ nữ không
-shop có bán áo không
-[price]
-giá sản phẩm này
-giá sản phẩm này
-áo này giá bao nhiêu
-bao nhiêu tiền
-bao nhiêu tiền
-áo này giá bao nhiêu
+có áo thun không
+có quần jean không
+có quần short không
+có váy dài không
+có váy ngắn không
+có áo hoodie không
+có áo len không
+có áo khoác gió không
+có áo blazer không
+có quần tây không
+có quần kaki không
+có áo polo không
+có áo croptop không
+có chân váy không
+có váy công sở không
+có váy dự tiệc không
+có đồ đi chơi không
+có đồ đi làm không
+có đồ đi học không
+có đồ đi tiệc không
+có đồ đi biển không
+có đồ đi du lịch không
+có đồ thể thao nữ không
+có đồ thể thao nam không
+có áo cặp không
+có đồ đôi không
+có áo nhóm không
+có áo lớp không
+có áo in không
+có áo trơn không
+có quần rách không
+có quần ống rộng không
+có quần ống suông không
+có quần baggy không
+có váy xếp ly không
+có váy chữ A không
+có váy body không
+có váy suông không
+có váy hoa không
+có váy trơn không
+có áo họa tiết không
+có áo trơn màu không
+có áo trắng không
+có áo đen không
+có áo pastel không
+có quần sáng màu không
+có quần tối màu không
+có đồ basic không
+có đồ cá tính không
+có đồ dễ thương không
+có đồ sang không
+có đồ giá rẻ không
+có đồ cao cấp không
+có mẫu mới không
+có hàng mới không
+có bộ sưu tập mới không
+có sản phẩm mới không
+có mẫu hot không
+có mẫu bán chạy không
+có hàng best seller không
+có hàng nổi bật không
+có sản phẩm nổi bật không
+có mẫu đẹp không
+có đồ đẹp không
+có đồ xinh không
+có đồ dễ mặc không
+có đồ dễ phối không
+có đồ hot trend không
+có đồ theo trend không
+có đồ theo mùa không
+có đồ mùa hè không
+có đồ mùa đông không
+có đồ mùa thu không
+có đồ mùa xuân không
+có đồ sale không
+có đồ giảm giá không
+có đồ khuyến mãi không
+có combo không
+có set đồ không
+có outfit không
+có đồ phối sẵn không
+có đồ unisex không
+có đồ form rộng không
+có đồ form ôm không
+có đồ oversize không
+có đồ freesize không
+có đồ big size không
+có đồ nhỏ size không
+
+[price] 
+
 giá bao nhiêu
 bao nhiêu tiền
-giá sản phẩm này
-bao nhiêu tiền
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-bao nhiêu tiền
-giá sản phẩm này
-bao nhiêu tiền
-bao nhiêu tiền
-giá sản phẩm này
-áo này giá bao nhiêu
-giá sản phẩm này
-bao nhiêu tiền
-giá sản phẩm này
-giá sản phẩm này
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-bao nhiêu tiền
-giá bao nhiêu
-bao nhiêu tiền
-giá bao nhiêu
-giá sản phẩm này
-giá sản phẩm này
-bao nhiêu tiền
-áo này giá bao nhiêu
-bao nhiêu tiền
-áo này giá bao nhiêu
-bao nhiêu tiền
-giá sản phẩm này
-bao nhiêu tiền
-giá bao nhiêu
-bao nhiêu tiền
-bao nhiêu tiền
-áo này giá bao nhiêu
-giá bao nhiêu
-áo này giá bao nhiêu
-giá bao nhiêu
-bao nhiêu tiền
-giá sản phẩm này
-bao nhiêu tiền
-bao nhiêu tiền
-giá sản phẩm này
-bao nhiêu tiền
-giá sản phẩm này
-bao nhiêu tiền
-áo này giá bao nhiêu
-giá sản phẩm này
-giá sản phẩm này
-áo này giá bao nhiêu
-giá sản phẩm này
-giá sản phẩm này
-bao nhiêu tiền
-giá sản phẩm này
-bao nhiêu tiền
-bao nhiêu tiền
-giá sản phẩm này
-áo này giá bao nhiêu
-bao nhiêu tiền
-bao nhiêu tiền
-giá sản phẩm này
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-giá sản phẩm này
-áo này giá bao nhiêu
-giá sản phẩm này
-áo này giá bao nhiêu
-giá sản phẩm này
-giá bao nhiêu
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-bao nhiêu tiền
-áo này giá bao nhiêu
-giá sản phẩm này
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-giá sản phẩm này
-áo này giá bao nhiêu
-giá sản phẩm này
-áo này giá bao nhiêu
-giá sản phẩm này
-bao nhiêu tiền
-giá bao nhiêu
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-bao nhiêu tiền
-bao nhiêu tiền
-giá bao nhiêu
-giá sản phẩm này
-giá bao nhiêu
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-áo này giá bao nhiêu
-giá bao nhiêu
-áo này giá bao nhiêu
-giá sản phẩm này
-giá sản phẩm này
-giá bao nhiêu
-giá sản phẩm này
-bao nhiêu tiền
-giá bao nhiêu
-bao nhiêu tiền
-áo này giá bao nhiêu
-bao nhiêu tiền
-giá bao nhiêu
-áo này giá bao nhiêu
-giá bao nhiêu
-giá bao nhiêu
-giá sản phẩm này
-áo này giá bao nhiêu
-giá bao nhiêu
-[fashion]
+giá thế nào
+giá sao
+giá bao nhiêu vậy
+bao nhiêu vậy
+mắc không
+rẻ không
+giá cao không
+giá thấp không
+giá hợp lý không
+giá ổn không
+giá tốt không
+giá có giảm không
+có giảm giá không
+có sale không
+có khuyến mãi không
+giá đang sale không
+giá đang giảm không
+giá còn giảm không
+giá bao nhiêu tiền
+giá bao nhiêu ạ
+bao nhiêu tiền ạ
+giá thế nào ạ
+giá sao ạ
+mắc không ạ
+rẻ không ạ
+giá cao không ạ
+giá thấp không ạ
+giá hợp lý không ạ
+giá ổn không ạ
+giá tốt không ạ
+giá bao nhiêu cho mình
+cho mình hỏi giá
+cho mình xin giá
+cho mình biết giá
+báo giá giúp mình
+báo giá nha
+báo giá ạ
+báo giá giúp em
+báo giá giúp chị
+báo giá giúp anh
+giá hiện tại bao nhiêu
+giá hiện giờ bao nhiêu
+giá lúc này bao nhiêu
+giá hôm nay bao nhiêu
+giá hôm nay sao
+giá hôm nay thế nào
+giá hôm nay bao nhiêu tiền
+giá đang bao nhiêu
+giá hiện tại thế nào
+giá hiện tại sao
+giá hiện tại bao nhiêu tiền
+giá có đổi không
+giá có thay đổi không
+giá có tăng không
+giá có giảm không
+giá có ổn không
+giá có hợp lý không
+giá có tốt không
+giá có ưu đãi không
+giá có khuyến mãi không
+giá có sale không
+giá đang sale bao nhiêu
+giá đang giảm bao nhiêu
+giá giảm còn bao nhiêu
+giá sale còn bao nhiêu
+giá khuyến mãi bao nhiêu
+giá ưu đãi bao nhiêu
+giá tốt nhất bao nhiêu
+giá rẻ nhất bao nhiêu
+giá thấp nhất bao nhiêu
+giá cao nhất bao nhiêu
+giá trung bình bao nhiêu
+giá khoảng bao nhiêu
+giá tầm bao nhiêu
+giá khoảng chừng bao nhiêu
+giá dự kiến bao nhiêu
+giá ước chừng bao nhiêu
+
+[fashion] 
+
+mặc gì đẹp
+phối đồ sao đẹp
+phối đồ thế nào
+phối đồ ra sao
+mặc gì cho đẹp
+mặc gì cho xinh
+mặc gì cho sang
+mặc gì cho gọn
+mặc gì cho cao
+mặc gì cho thon
+mặc gì cho trẻ
+mặc gì cho năng động
+mặc gì cho cá tính
+mặc gì cho nhẹ nhàng
+mặc gì cho thanh lịch
+mặc gì cho lịch sự
+mặc gì cho nổi bật
+mặc gì cho đơn giản
+mặc gì cho dễ thương
+mặc gì cho sang trọng
 phối đồ cho nữ
+phối đồ cho nam
+phối đồ đi làm
+phối đồ đi học
 phối đồ đi chơi
-phối đồ đi chơi
-phối đồ đi chơi
-phối đồ cho nữ
-phối đồ cho nữ
-phối đồ đi làm
-phối đồ đi làm
-phối đồ cho nữ
+phối đồ đi tiệc
+phối đồ đi biển
+phối đồ đi du lịch
+phối đồ đi dạo
+phối đồ đi cafe
+phối đồ công sở
+phối đồ học sinh
+phối đồ sinh viên
+phối đồ văn phòng
+phối đồ dự tiệc
+phối đồ dạo phố
+phối đồ chụp hình
+phối đồ sống ảo
 phối đồ đẹp
-phối đồ đẹp
-phối đồ đi chơi
-phối đồ đi chơi
-phối đồ đẹp
-phối đồ đi làm
-phối đồ đi chơi
-phối đồ cho nữ
-phối đồ đẹp
-phối đồ đi làm
-phối đồ cho nữ
-phối đồ đi làm
-phối đồ đi làm
-phối đồ đi làm
-phối đồ đi chơi
-phối đồ đẹp
-phối đồ cho nữ
-phối đồ đi chơi
-phối đồ đi làm
-phối đồ đẹp
-phối đồ đi chơi
-phối đồ đẹp
-phối đồ đi chơi
-phối đồ đi chơi
-phối đồ đi chơi
-phối đồ đi làm
-phối đồ cho nữ
-phối đồ đi làm
-phối đồ cho nữ
-phối đồ cho nữ
-phối đồ cho nữ
-phối đồ đi làm
-phối đồ đi làm
-phối đồ đẹp
-phối đồ đẹp
-phối đồ đi làm
-phối đồ đi làm
-phối đồ đi làm
-phối đồ đi làm
-phối đồ cho nữ
-phối đồ đi làm
-phối đồ đi làm
-phối đồ đẹp
-phối đồ đẹp
-phối đồ đi làm
-phối đồ đi chơi
-phối đồ đi chơi
-phối đồ đi làm
-phối đồ đẹp
-phối đồ đẹp
-phối đồ đi làm
-phối đồ đi chơi
-phối đồ đi làm
-phối đồ cho nữ
-phối đồ đẹp
-phối đồ đi làm
-phối đồ đi làm
-phối đồ đẹp
-phối đồ cho nữ
-phối đồ cho nữ
-phối đồ đẹp
-phối đồ đi làm
-phối đồ đẹp
-phối đồ đi làm
-phối đồ đi chơi
-phối đồ đi chơi
-phối đồ đẹp
-phối đồ cho nữ
-phối đồ đẹp
-phối đồ đi chơi
-phối đồ cho nữ
-phối đồ đi làm
-phối đồ đẹp
-phối đồ cho nữ
-phối đồ cho nữ
-phối đồ đẹp
-phối đồ cho nữ
-phối đồ đẹp
-phối đồ đẹp
-phối đồ đi chơi
-phối đồ cho nữ
-phối đồ đi làm
-phối đồ đi làm
-phối đồ đẹp
-phối đồ đẹp
-phối đồ cho nữ
-phối đồ đi chơi
-phối đồ đẹp
-phối đồ đẹp
-phối đồ đi làm
-phối đồ đi làm
-phối đồ đi chơi
-phối đồ đẹp
-phối đồ cho nữ
-phối đồ đi làm
-phối đồ đi chơi
-phối đồ đi làm
-phối đồ đẹp
-phối đồ cho nữ
-phối đồ đi chơi
-phối đồ đi làm
-phối đồ đẹp
-phối đồ đẹp
-phối đồ cho nữ
-phối đồ cho nữ
-phối đồ đi làm
-phối đồ cho nữ
-phối đồ đi làm
-phối đồ đẹp
-phối đồ đi làm
-phối đồ đẹp
-[style]
-mặc gì cho nữ
-mặc gì đi chơi
-mặc gì cho nam
-mặc gì đi tiệc
-mặc gì đi tiệc
-mặc gì cho nữ
-mặc gì đi tiệc
-mặc gì cho nam
-mặc gì đi tiệc
-mặc gì đi tiệc
-mặc gì cho nữ
-mặc gì cho nam
-mặc gì đi chơi
-mặc gì cho nữ
-mặc gì cho nam
-mặc gì cho nữ
-mặc gì cho nữ
-mặc gì đi tiệc
-mặc gì đi chơi
-mặc gì cho nam
-mặc gì cho nam
-mặc gì cho nam
-mặc gì đi tiệc
-mặc gì cho nữ
-mặc gì cho nam
-mặc gì cho nam
-mặc gì cho nam
-mặc gì đi chơi
-mặc gì đi chơi
-mặc gì đi chơi
-mặc gì đi chơi
-mặc gì cho nữ
-mặc gì đi chơi
-mặc gì cho nam
-mặc gì cho nam
-mặc gì cho nam
-mặc gì đi tiệc
-mặc gì cho nam
-mặc gì cho nữ
-mặc gì cho nam
-mặc gì cho nam
-mặc gì đi chơi
-mặc gì cho nam
-mặc gì đi tiệc
-mặc gì cho nữ
-mặc gì đi chơi
-mặc gì đi chơi
-mặc gì cho nam
-mặc gì đi tiệc
-mặc gì đi chơi
-mặc gì đi chơi
-mặc gì cho nữ
-mặc gì đi chơi
-mặc gì cho nữ
-mặc gì cho nữ
-mặc gì đi chơi
-mặc gì cho nữ
-mặc gì cho nam
-mặc gì đi chơi
-mặc gì đi tiệc
-mặc gì đi chơi
-mặc gì cho nam
-mặc gì đi chơi
-mặc gì cho nam
-mặc gì đi chơi
-mặc gì đi chơi
-mặc gì đi chơi
-mặc gì đi chơi
-mặc gì cho nữ
-mặc gì đi chơi
-mặc gì đi tiệc
-mặc gì cho nam
-mặc gì cho nam
-mặc gì cho nữ
-mặc gì đi tiệc
-mặc gì cho nữ
-mặc gì đi tiệc
-mặc gì cho nữ
-mặc gì cho nam
-mặc gì cho nữ
-mặc gì cho nam
-mặc gì đi tiệc
-mặc gì đi chơi
-mặc gì đi tiệc
-mặc gì cho nữ
-mặc gì cho nam
-mặc gì đi tiệc
-mặc gì đi tiệc
-mặc gì đi tiệc
-mặc gì đi chơi
-mặc gì đi tiệc
-mặc gì cho nam
-mặc gì đi tiệc
-mặc gì đi tiệc
-mặc gì cho nam
-mặc gì cho nữ
-mặc gì cho nữ
-mặc gì cho nam
-mặc gì cho nam
-mặc gì đi tiệc
-mặc gì đi chơi
-mặc gì đi chơi
-mặc gì đi chơi
-mặc gì cho nam
-mặc gì cho nam
-mặc gì cho nữ
-mặc gì cho nam
-mặc gì cho nam
-mặc gì cho nữ
-mặc gì đi tiệc
-mặc gì đi chơi
-mặc gì đi tiệc
-mặc gì cho nam
-mặc gì đi chơi
-mặc gì cho nam
-mặc gì cho nam
-mặc gì đi chơi
-mặc gì cho nam
-mặc gì đi chơi
-mặc gì đi chơi
-[shipping]
-giao hàng trong mấy ngày
-shop có giao hàng không
+phối đồ xinh
+phối đồ sang
+phối đồ gọn
+phối đồ cao
+phối đồ thon
+phối đồ trẻ
+phối đồ năng động
+phối đồ cá tính
+phối đồ nhẹ nhàng
+phối đồ thanh lịch
+phối đồ lịch sự
+phối đồ nổi bật
+phối đồ đơn giản
+phối đồ dễ thương
+phối đồ sang trọng
+mix đồ sao
+mix đồ thế nào
+mix đồ ra sao
+mix đồ cho đẹp
+mix đồ cho xinh
+mix đồ cho sang
+mix đồ cho gọn
+mix đồ cho cao
+mix đồ cho thon
+mix đồ cho trẻ
+mix đồ cho năng động
+mix đồ cho cá tính
+mix đồ cho nhẹ nhàng
+mix đồ cho thanh lịch
+mix đồ cho lịch sự
+mix đồ cho nổi bật
+mix đồ cho đơn giản
+mix đồ cho dễ thương
+mix đồ cho sang trọng
+mặc đồ sao cho đẹp
+mặc đồ sao cho xinh
+mặc đồ sao cho sang
+mặc đồ sao cho gọn
+mặc đồ sao cho cao
+mặc đồ sao cho thon
+mặc đồ sao cho trẻ
+mặc đồ sao cho năng động
+mặc đồ sao cho cá tính
+mặc đồ sao cho nhẹ nhàng
+mặc đồ sao cho thanh lịch
+mặc đồ sao cho lịch sự
+mặc đồ sao cho nổi bật
+mặc đồ sao cho đơn giản
+mặc đồ sao cho dễ thương
+mặc đồ sao cho sang trọng
+
+[style] 
+
+phong cách gì hợp
+phong cách nào đẹp
+phong cách nào hợp
+phong cách gì phù hợp
+phong cách nào phù hợp
+nên theo phong cách gì
+nên mặc phong cách gì
+nên chọn phong cách gì
+nên theo style gì
+nên mặc style gì
+nên chọn style gì
+phong cách trẻ trung
+phong cách công sở
+phong cách cá tính
+phong cách dễ thương
+phong cách thanh lịch
+phong cách năng động
+phong cách tối giản
+phong cách vintage
+phong cách hàn quốc
+phong cách nhật bản
+phong cách trung quốc
+phong cách âu mỹ
+phong cách thể thao
+phong cách đường phố
+phong cách basic
+phong cách sang trọng
+phong cách nhẹ nhàng
+phong cách nữ tính
+phong cách nam tính
+phong cách unisex
+phong cách oversize
+phong cách freesize
+phong cách gợi cảm
+phong cách kín đáo
+phong cách hiện đại
+phong cách cổ điển
+phong cách trendy
+phong cách hot trend
+phong cách theo mùa
+phong cách mùa hè
+phong cách mùa đông
+phong cách mùa thu
+phong cách mùa xuân
+style nào hợp
+style nào đẹp
+style gì hợp
+style gì đẹp
+style nào phù hợp
+style gì phù hợp
+nên theo style nào
+nên mặc style nào
+nên chọn style nào
+style trẻ trung
+style công sở
+style cá tính
+style dễ thương
+style thanh lịch
+style năng động
+style tối giản
+style vintage
+style hàn quốc
+style nhật bản
+style trung quốc
+style âu mỹ
+style thể thao
+style đường phố
+style basic
+style sang trọng
+style nhẹ nhàng
+style nữ tính
+style nam tính
+style unisex
+style oversize
+style freesize
+style gợi cảm
+style kín đáo
+style hiện đại
+style cổ điển
+style trendy
+style hot trend
+style theo mùa
+style mùa hè
+style mùa đông
+style mùa thu
+style mùa xuân
+gu ăn mặc gì
+gu thời trang gì
+gu nào hợp
+gu nào đẹp
+gu nào phù hợp
+gu nào ổn
+gu nào hợp mình
+
+[shipping] 
+
+có ship không
+ship không
+có giao hàng không
+giao hàng không
+ship thế nào
+ship sao
+ship ra sao
+ship bao lâu
+ship mấy ngày
+ship bao nhiêu ngày
 ship mất bao lâu
-shop có giao hàng không
-giao hàng trong mấy ngày
-ship mất bao lâu
-ship mất bao lâu
-shop có giao hàng không
-giao hàng trong mấy ngày
-shop có giao hàng không
-shop có giao hàng không
-ship mất bao lâu
-shop có giao hàng không
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-ship mất bao lâu
-shop có giao hàng không
-giao hàng trong mấy ngày
-shop có giao hàng không
-shop có giao hàng không
-ship mất bao lâu
-shop có giao hàng không
-ship mất bao lâu
-ship mất bao lâu
-shop có giao hàng không
-giao hàng trong mấy ngày
-shop có giao hàng không
-giao hàng trong mấy ngày
-ship mất bao lâu
-ship mất bao lâu
-giao hàng trong mấy ngày
-shop có giao hàng không
-giao hàng trong mấy ngày
-ship mất bao lâu
-shop có giao hàng không
-giao hàng trong mấy ngày
-shop có giao hàng không
-ship mất bao lâu
-giao hàng trong mấy ngày
-ship mất bao lâu
-ship mất bao lâu
-giao hàng trong mấy ngày
-ship mất bao lâu
-giao hàng trong mấy ngày
-ship mất bao lâu
-ship mất bao lâu
-shop có giao hàng không
-giao hàng trong mấy ngày
-ship mất bao lâu
-ship mất bao lâu
-ship mất bao lâu
-shop có giao hàng không
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-ship mất bao lâu
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-shop có giao hàng không
-shop có giao hàng không
-shop có giao hàng không
-shop có giao hàng không
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-ship mất bao lâu
-shop có giao hàng không
-shop có giao hàng không
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-shop có giao hàng không
-shop có giao hàng không
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-ship mất bao lâu
-ship mất bao lâu
-ship mất bao lâu
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-shop có giao hàng không
-ship mất bao lâu
-shop có giao hàng không
-ship mất bao lâu
-shop có giao hàng không
-shop có giao hàng không
-shop có giao hàng không
-ship mất bao lâu
-shop có giao hàng không
-ship mất bao lâu
-shop có giao hàng không
-shop có giao hàng không
-shop có giao hàng không
-ship mất bao lâu
-shop có giao hàng không
-shop có giao hàng không
-giao hàng trong mấy ngày
-shop có giao hàng không
-shop có giao hàng không
-giao hàng trong mấy ngày
-shop có giao hàng không
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-ship mất bao lâu
-giao hàng trong mấy ngày
-shop có giao hàng không
-ship mất bao lâu
-giao hàng trong mấy ngày
-shop có giao hàng không
-ship mất bao lâu
-ship mất bao lâu
-shop có giao hàng không
-shop có giao hàng không
-ship mất bao lâu
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-giao hàng trong mấy ngày
-shop có giao hàng không
-shop có giao hàng không
+giao hàng bao lâu
+giao hàng mấy ngày
+giao hàng bao nhiêu ngày
+giao hàng mất bao lâu
+ship nhanh không
+ship chậm không
+ship lâu không
+ship nhanh hay chậm
+giao hàng nhanh không
+giao hàng chậm không
+giao hàng lâu không
+ship toàn quốc không
+giao hàng toàn quốc không
+ship tỉnh không
+giao hàng tỉnh không
+ship nội thành không
+giao hàng nội thành không
+ship ngoại thành không
+giao hàng ngoại thành không
+ship cod không
+giao hàng cod không
+ship thu tiền không
+giao hàng thu tiền không
+ship miễn phí không
+giao hàng miễn phí không
+ship free không
+giao hàng free không
+ship bao nhiêu tiền
+phí ship bao nhiêu
+phí giao hàng bao nhiêu
+ship giá bao nhiêu
+giao hàng giá bao nhiêu
+ship có đắt không
+ship có rẻ không
+phí ship cao không
+phí ship thấp không
+ship có ưu đãi không
+ship có giảm không
+ship có khuyến mãi không
+giao hàng có ưu đãi không
+giao hàng có giảm không
+giao hàng có khuyến mãi không
+ship hôm nay được không
+giao hàng hôm nay được không
+ship gấp được không
+giao hàng gấp được không
+ship nhanh trong ngày không
+giao hàng trong ngày không
+ship 1 ngày không
+giao hàng 1 ngày không
+ship 2 ngày không
+giao hàng 2 ngày không
+ship 3 ngày không
+giao hàng 3 ngày không
+ship mấy hôm tới
+giao hàng mấy hôm tới
+ship dự kiến khi nào
+giao hàng dự kiến khi nào
+ship khoảng khi nào
+giao hàng khoảng khi nào
+
+
+
 [policy]
+đổi size được không ạ
+chính sách shop thế nào
+bạn ơi chính sách bảo hành
+chính sách bảo hành ạ
+cho mình hỏi có được trả hàng không
+đổi trả thế nào vậy
+shop ơi chính sách bảo hành
+cho mình hỏi đổi trả thế nào
+bạn ơi có được trả hàng không
+cho mình hỏi chính sách shop thế nào
+shop ơi đổi size được không
+bạn ơi đổi trả thế nào
+chính sách shop thế nào ạ
+chính sách bảo hành
+đổi trả thế nào
+chính sách bảo hành vậy
+mình muốn biết chính sách bảo hành
+bạn ơi đổi size được không
+chính sách shop thế nào vậy
+có được trả hàng không
+cho mình hỏi đổi size được không
+có được trả hàng không ạ
+bạn ơi chính sách shop thế nào
+mình muốn biết chính sách shop thế nào
+đổi size được không
+mình muốn biết đổi trả thế nào
+shop ơi chính sách shop thế nào
+shop ơi đổi trả thế nào
+mình muốn biết đổi size được không
+mình muốn biết có được trả hàng không
+cho mình hỏi chính sách bảo hành
+shop ơi có được trả hàng không
+đổi trả thế nào ạ
+đổi size được không vậy
+có được trả hàng không vậy
+cho mình hỏi có được trả hàng không
+shop ơi đổi size được không
+mình muốn biết đổi size được không
+bạn ơi chính sách bảo hành
+mình muốn biết chính sách bảo hành
+bạn ơi đổi size được không
+bạn ơi đổi trả thế nào
+mình muốn biết có được trả hàng không
+cho mình hỏi chính sách shop thế nào
+mình muốn biết chính sách bảo hành
+shop ơi chính sách shop thế nào
+chính sách shop thế nào
+đổi size được không ạ
+cho mình hỏi đổi size được không
+có được trả hàng không ạ
+shop ơi có được trả hàng không
+đổi trả thế nào ạ
+đổi trả thế nào ạ
+chính sách shop thế nào
+bạn ơi đổi size được không
+bạn ơi đổi size được không
+shop ơi đổi size được không
+mình muốn biết chính sách bảo hành
+cho mình hỏi có được trả hàng không
+có được trả hàng không ạ
+shop ơi đổi trả thế nào
+shop ơi có được trả hàng không
+bạn ơi đổi size được không
+cho mình hỏi chính sách bảo hành
+shop ơi có được trả hàng không
+chính sách shop thế nào ạ
+bạn ơi chính sách shop thế nào
+đổi trả thế nào vậy
+có được trả hàng không ạ
+đổi trả thế nào vậy
+chính sách shop thế nào
+chính sách bảo hành vậy
+có được trả hàng không vậy
+chính sách bảo hành ạ
+shop ơi đổi trả thế nào
+bạn ơi có được trả hàng không
+cho mình hỏi chính sách shop thế nào
+cho mình hỏi đổi trả thế nào
+cho mình hỏi có được trả hàng không
+chính sách bảo hành vậy
+bạn ơi đổi size được không
+có được trả hàng không ạ
+chính sách bảo hành
+đổi trả thế nào ạ
+cho mình hỏi chính sách shop thế nào
+đổi trả thế nào vậy
+có được trả hàng không ạ
+chính sách shop thế nào vậy
+đổi trả thế nào vậy
+bạn ơi chính sách shop thế nào
+mình muốn biết chính sách bảo hành
+chính sách shop thế nào vậy
+shop ơi đổi size được không
+shop ơi đổi size được không
+có được trả hàng không vậy
+shop ơi chính sách shop thế nào
+mình muốn biết có được trả hàng không
+chính sách bảo hành
+mình muốn biết chính sách shop thế nào
+shop ơi đổi trả thế nào
+mình muốn biết đổi size được không
+shop ơi đổi size được không
+có được trả hàng không vậy
+shop ơi chính sách bảo hành
+đổi size được không vậy
+chính sách bảo hành
+shop ơi đổi trả thế nào
+mình muốn biết chính sách bảo hành
+chính sách shop thế nào vậy
+shop ơi đổi size được không
+chính sách bảo hành ạ
+cho mình hỏi chính sách shop thế nào
+mình muốn biết chính sách bảo hành
+đổi trả thế nào
+shop ơi chính sách shop thế nào
+mình muốn biết đổi size được không
+cho mình hỏi đổi size được không
+shop ơi chính sách bảo hành
+chính sách bảo hành vậy
+bạn ơi đổi trả thế nào
+đổi trả thế nào ạ
+shop ơi đổi size được không
+shop ơi đổi size được không
+cho mình hỏi chính sách bảo hành
+chính sách shop thế nào ạ
+bạn ơi chính sách bảo hành
+mình muốn biết chính sách shop thế nào
+bạn ơi chính sách bảo hành
+chính sách bảo hành
+bạn ơi chính sách shop thế nào
+shop ơi chính sách bảo hành
+chính sách bảo hành
+bạn ơi đổi size được không
+chính sách bảo hành vậy
+có được trả hàng không vậy
+có được trả hàng không
+chính sách shop thế nào ạ
+đổi trả thế nào vậy
+shop ơi đổi size được không
+đổi trả thế nào ạ
+đổi trả thế nào
+bạn ơi chính sách bảo hành
+shop ơi đổi trả thế nào
+cho mình hỏi chính sách bảo hành
+mình muốn biết đổi size được không
+bạn ơi có được trả hàng không
+cho mình hỏi đổi trả thế nào
+mình muốn biết đổi size được không
+mình muốn biết chính sách shop thế nào
+mình muốn biết có được trả hàng không
+shop ơi có được trả hàng không
+bạn ơi đổi size được không
+cho mình hỏi chính sách bảo hành
+có được trả hàng không
+đổi trả thế nào
+cho mình hỏi chính sách shop thế nào
+có được trả hàng không ạ
+mình muốn biết chính sách shop thế nào
+shop ơi đổi trả thế nào
+chính sách shop thế nào
+có được trả hàng không
+chính sách shop thế nào vậy
+bạn ơi đổi trả thế nào
+đổi size được không ạ
+có được trả hàng không ạ
+mình muốn biết chính sách bảo hành
+chính sách shop thế nào ạ
+chính sách shop thế nào
+cho mình hỏi đổi trả thế nào
+mình muốn biết chính sách bảo hành
+bạn ơi đổi size được không
+cho mình hỏi chính sách bảo hành
+đổi trả thế nào vậy
+đổi size được không vậy
 đổi size được không
 đổi size được không
+mình muốn biết có được trả hàng không
+đổi trả thế nào ạ
+shop ơi có được trả hàng không
+chính sách bảo hành vậy
+có được trả hàng không ạ
+chính sách bảo hành vậy
+bạn ơi đổi size được không
+đổi size được không ạ
+cho mình hỏi đổi trả thế nào
+shop ơi đổi size được không
+chính sách bảo hành vậy
+cho mình hỏi đổi trả thế nào
+bạn ơi chính sách shop thế nào
+đổi size được không vậy
+shop ơi chính sách shop thế nào
+đổi size được không vậy
+đổi trả thế nào
+cho mình hỏi đổi size được không
+cho mình hỏi đổi size được không
+mình muốn biết đổi trả thế nào
+bạn ơi có được trả hàng không
+cho mình hỏi có được trả hàng không
+đổi size được không vậy
+chính sách bảo hành vậy
+có được trả hàng không vậy
+mình muốn biết đổi size được không
+cho mình hỏi đổi trả thế nào
+đổi trả thế nào ạ
+shop ơi chính sách shop thế nào
+bạn ơi có được trả hàng không
+mình muốn biết chính sách bảo hành
+cho mình hỏi chính sách shop thế nào
+chính sách shop thế nào
+đổi size được không ạ
+shop ơi đổi trả thế nào
+mình muốn biết đổi trả thế nào
 đổi size được không
-có đổi trả không
-chính sách đổi trả
-có đổi trả không
-chính sách đổi trả
-có đổi trả không
-chính sách đổi trả
+mình muốn biết đổi trả thế nào
+đổi trả thế nào ạ
+shop ơi đổi size được không
+bạn ơi chính sách shop thế nào
+bạn ơi đổi trả thế nào
+chính sách bảo hành ạ
+shop ơi đổi size được không
+chính sách bảo hành ạ
+mình muốn biết chính sách shop thế nào
+chính sách shop thế nào ạ
+bạn ơi đổi size được không
+bạn ơi chính sách bảo hành
+có được trả hàng không vậy
+đổi trả thế nào
+shop ơi chính sách bảo hành
 đổi size được không
-có đổi trả không
-chính sách đổi trả
+chính sách shop thế nào vậy
+cho mình hỏi đổi size được không
+shop ơi đổi size được không
+cho mình hỏi đổi size được không
 đổi size được không
+chính sách shop thế nào
+chính sách bảo hành ạ
+shop ơi chính sách bảo hành
+bạn ơi đổi trả thế nào
+cho mình hỏi chính sách shop thế nào
+chính sách shop thế nào
+cho mình hỏi đổi trả thế nào
+đổi trả thế nào ạ
+bạn ơi chính sách shop thế nào
+bạn ơi có được trả hàng không
+chính sách bảo hành
+đổi size được không vậy
+chính sách shop thế nào vậy
+shop ơi đổi size được không
+cho mình hỏi đổi size được không
+mình muốn biết đổi trả thế nào
+cho mình hỏi đổi trả thế nào
+có được trả hàng không
+bạn ơi chính sách shop thế nào
+bạn ơi chính sách bảo hành
+đổi trả thế nào vậy
+đổi trả thế nào vậy
+có được trả hàng không
+shop ơi chính sách bảo hành
+shop ơi đổi trả thế nào
+cho mình hỏi đổi size được không
+đổi trả thế nào vậy
+bạn ơi đổi trả thế nào
+đổi trả thế nào vậy
+shop ơi có được trả hàng không
+cho mình hỏi chính sách bảo hành
+đổi size được không vậy
+bạn ơi có được trả hàng không
+shop ơi có được trả hàng không
+shop ơi chính sách shop thế nào
+shop ơi có được trả hàng không
+cho mình hỏi đổi size được không
+mình muốn biết có được trả hàng không
+mình muốn biết chính sách shop thế nào
+shop ơi chính sách shop thế nào
+mình muốn biết đổi trả thế nào
+mình muốn biết đổi trả thế nào
+đổi trả thế nào
 đổi size được không
-có đổi trả không
+có được trả hàng không ạ
+cho mình hỏi đổi trả thế nào
+cho mình hỏi chính sách shop thế nào
+shop ơi đổi trả thế nào
+bạn ơi đổi size được không
+shop ơi chính sách shop thế nào
+có được trả hàng không ạ
+bạn ơi có được trả hàng không
+có được trả hàng không vậy
+cho mình hỏi chính sách shop thế nào
+chính sách bảo hành ạ
+mình muốn biết chính sách bảo hành
+mình muốn biết chính sách bảo hành
+shop ơi có được trả hàng không
+có được trả hàng không
+cho mình hỏi đổi size được không
+bạn ơi đổi trả thế nào
+cho mình hỏi đổi trả thế nào
+chính sách bảo hành ạ
+cho mình hỏi chính sách shop thế nào
+shop ơi chính sách bảo hành
 đổi size được không
-có đổi trả không
-có đổi trả không
-chính sách đổi trả
-chính sách đổi trả
-có đổi trả không
-có đổi trả không
+shop ơi có được trả hàng không
+có được trả hàng không vậy
+mình muốn biết chính sách bảo hành
+đổi size được không vậy
+cho mình hỏi chính sách shop thế nào
+shop ơi chính sách bảo hành
+mình muốn biết chính sách bảo hành
+bạn ơi có được trả hàng không
+bạn ơi chính sách shop thế nào
+bạn ơi chính sách bảo hành
+chính sách shop thế nào vậy
 đổi size được không
-có đổi trả không
-chính sách đổi trả
-chính sách đổi trả
+cho mình hỏi có được trả hàng không
+chính sách shop thế nào vậy
+cho mình hỏi chính sách bảo hành
+chính sách bảo hành ạ
+shop ơi chính sách bảo hành
+cho mình hỏi đổi trả thế nào
+chính sách shop thế nào ạ
+bạn ơi chính sách shop thế nào
+bạn ơi đổi size được không
+cho mình hỏi chính sách bảo hành
+chính sách shop thế nào ạ
+chính sách bảo hành
+bạn ơi có được trả hàng không
+cho mình hỏi chính sách shop thế nào
+bạn ơi đổi trả thế nào
+bạn ơi chính sách shop thế nào
+cho mình hỏi chính sách shop thế nào
+đổi trả thế nào ạ
+cho mình hỏi chính sách shop thế nào
+cho mình hỏi chính sách shop thế nào
+chính sách shop thế nào vậy
+shop ơi chính sách bảo hành
+mình muốn biết đổi trả thế nào
+chính sách bảo hành vậy
+có được trả hàng không ạ
+shop ơi chính sách shop thế nào
+shop ơi đổi trả thế nào
+bạn ơi có được trả hàng không
 đổi size được không
-chính sách đổi trả
+chính sách bảo hành ạ
+chính sách shop thế nào vậy
+mình muốn biết chính sách shop thế nào
+mình muốn biết có được trả hàng không
+bạn ơi đổi size được không
+bạn ơi chính sách shop thế nào
+chính sách shop thế nào vậy
+cho mình hỏi có được trả hàng không
+có được trả hàng không vậy
+cho mình hỏi có được trả hàng không
+chính sách shop thế nào
+đổi trả thế nào vậy
+cho mình hỏi có được trả hàng không
+chính sách bảo hành vậy
+có được trả hàng không ạ
+mình muốn biết chính sách shop thế nào
+bạn ơi có được trả hàng không
+mình muốn biết đổi trả thế nào
+đổi trả thế nào ạ
+có được trả hàng không vậy
+có được trả hàng không
+shop ơi có được trả hàng không
+đổi trả thế nào ạ
+bạn ơi đổi trả thế nào
+đổi size được không vậy
+đổi size được không vậy
 đổi size được không
-chính sách đổi trả
-chính sách đổi trả
-chính sách đổi trả
+chính sách bảo hành vậy
+cho mình hỏi có được trả hàng không
+bạn ơi đổi trả thế nào
+đổi size được không ạ
+bạn ơi đổi size được không
 đổi size được không
-có đổi trả không
-có đổi trả không
+bạn ơi đổi size được không
+bạn ơi có được trả hàng không
+cho mình hỏi đổi size được không
+đổi trả thế nào
+shop ơi đổi size được không
 đổi size được không
-có đổi trả không
+cho mình hỏi đổi trả thế nào
+cho mình hỏi đổi trả thế nào
+mình muốn biết chính sách shop thế nào
+mình muốn biết có được trả hàng không
+chính sách shop thế nào ạ
+mình muốn biết đổi size được không
+mình muốn biết chính sách shop thế nào
+chính sách shop thế nào
+mình muốn biết chính sách bảo hành
+bạn ơi đổi trả thế nào
 đổi size được không
+mình muốn biết có được trả hàng không
+chính sách bảo hành
+đổi trả thế nào
+có được trả hàng không vậy
+đổi trả thế nào vậy
+chính sách shop thế nào vậy
+chính sách shop thế nào
+cho mình hỏi chính sách shop thế nào
+đổi trả thế nào
+chính sách bảo hành ạ
+chính sách shop thế nào
+đổi trả thế nào ạ
+có được trả hàng không ạ
+bạn ơi chính sách shop thế nào
+bạn ơi chính sách bảo hành
+shop ơi chính sách shop thế nào
 đổi size được không
+đổi trả thế nào ạ
+chính sách bảo hành
+đổi size được không vậy
+cho mình hỏi đổi trả thế nào
+cho mình hỏi chính sách shop thế nào
+chính sách shop thế nào vậy
+mình muốn biết chính sách shop thế nào
+đổi trả thế nào
+mình muốn biết chính sách shop thế nào
+shop ơi chính sách shop thế nào
+chính sách shop thế nào
+shop ơi chính sách bảo hành
+shop ơi đổi trả thế nào
+đổi trả thế nào
+chính sách bảo hành
+bạn ơi đổi size được không
+có được trả hàng không vậy
+cho mình hỏi đổi trả thế nào
+cho mình hỏi đổi trả thế nào
+cho mình hỏi có được trả hàng không
+đổi size được không ạ
+chính sách bảo hành ạ
+bạn ơi đổi size được không
+mình muốn biết đổi size được không
+shop ơi chính sách shop thế nào
 đổi size được không
-có đổi trả không
-chính sách đổi trả
-có đổi trả không
-chính sách đổi trả
-chính sách đổi trả
-chính sách đổi trả
-chính sách đổi trả
-có đổi trả không
-có đổi trả không
+bạn ơi chính sách bảo hành
+có được trả hàng không ạ
+cho mình hỏi chính sách shop thế nào
+chính sách shop thế nào vậy
+chính sách shop thế nào
+đổi trả thế nào vậy
+cho mình hỏi đổi size được không
+có được trả hàng không
+shop ơi có được trả hàng không
+có được trả hàng không vậy
+cho mình hỏi chính sách shop thế nào
+shop ơi chính sách shop thế nào
+có được trả hàng không vậy
+bạn ơi chính sách shop thế nào
+chính sách bảo hành ạ
+bạn ơi có được trả hàng không
+shop ơi đổi size được không
+cho mình hỏi chính sách shop thế nào
+có được trả hàng không ạ
+mình muốn biết chính sách bảo hành
+shop ơi chính sách shop thế nào
+đổi size được không ạ
+đổi size được không ạ
+cho mình hỏi đổi trả thế nào
+bạn ơi đổi trả thế nào
+đổi size được không ạ
+đổi size được không vậy
+chính sách shop thế nào
+bạn ơi có được trả hàng không
+mình muốn biết có được trả hàng không
+chính sách bảo hành
+chính sách bảo hành vậy
+shop ơi đổi size được không
+bạn ơi đổi trả thế nào
+chính sách shop thế nào ạ
+có được trả hàng không vậy
+chính sách bảo hành ạ
+bạn ơi đổi size được không
+bạn ơi chính sách bảo hành
+chính sách bảo hành ạ
+đổi trả thế nào ạ
+chính sách shop thế nào
 đổi size được không
+có được trả hàng không ạ
+đổi trả thế nào ạ
+bạn ơi đổi trả thế nào
+đổi size được không vậy
+chính sách bảo hành
+chính sách shop thế nào ạ
+chính sách bảo hành
+bạn ơi chính sách bảo hành
+cho mình hỏi chính sách bảo hành
 đổi size được không
+chính sách bảo hành ạ
+chính sách shop thế nào ạ
+mình muốn biết có được trả hàng không
+mình muốn biết đổi size được không
+mình muốn biết chính sách bảo hành
+shop ơi có được trả hàng không
+cho mình hỏi đổi trả thế nào
+bạn ơi đổi size được không
+chính sách shop thế nào
+mình muốn biết chính sách shop thế nào
+cho mình hỏi đổi size được không
+bạn ơi đổi trả thế nào
+cho mình hỏi đổi trả thế nào
+bạn ơi chính sách bảo hành
+cho mình hỏi chính sách shop thế nào
+chính sách shop thế nào
+cho mình hỏi chính sách shop thế nào
+có được trả hàng không vậy
+shop ơi có được trả hàng không
+đổi size được không ạ
+shop ơi chính sách shop thế nào
+chính sách bảo hành
+shop ơi đổi trả thế nào
+shop ơi có được trả hàng không
+cho mình hỏi chính sách shop thế nào
+đổi size được không ạ
+shop ơi đổi size được không
+bạn ơi đổi trả thế nào
+cho mình hỏi chính sách bảo hành
+mình muốn biết đổi size được không
+có được trả hàng không
+có được trả hàng không
+mình muốn biết đổi size được không
+đổi trả thế nào vậy
+có được trả hàng không
+có được trả hàng không vậy
+có được trả hàng không vậy
 đổi size được không
-chính sách đổi trả
-có đổi trả không
-có đổi trả không
-đổi size được không
-có đổi trả không
-có đổi trả không
-chính sách đổi trả
-chính sách đổi trả
-đổi size được không
-có đổi trả không
-có đổi trả không
-chính sách đổi trả
-chính sách đổi trả
-đổi size được không
-đổi size được không
-đổi size được không
-chính sách đổi trả
-có đổi trả không
-đổi size được không
-chính sách đổi trả
-chính sách đổi trả
-có đổi trả không
-có đổi trả không
-chính sách đổi trả
-có đổi trả không
-có đổi trả không
-chính sách đổi trả
-đổi size được không
-đổi size được không
-có đổi trả không
-chính sách đổi trả
-chính sách đổi trả
-đổi size được không
-chính sách đổi trả
-chính sách đổi trả
-có đổi trả không
-chính sách đổi trả
-chính sách đổi trả
-chính sách đổi trả
-chính sách đổi trả
-có đổi trả không
-chính sách đổi trả
-có đổi trả không
-đổi size được không
-có đổi trả không
-chính sách đổi trả
-có đổi trả không
-đổi size được không
-chính sách đổi trả
-đổi size được không
-chính sách đổi trả
-đổi size được không
-đổi size được không
-có đổi trả không
-chính sách đổi trả
-có đổi trả không
-đổi size được không
-đổi size được không
-có đổi trả không
-chính sách đổi trả
-đổi size được không
-chính sách đổi trả
-đổi size được không
-có đổi trả không
-đổi size được không
-có đổi trả không
-chính sách đổi trả
-đổi size được không
+cho mình hỏi đổi size được không
+đổi trả thế nào
+đổi size được không vậy
+chính sách shop thế nào vậy
+đổi size được không vậy
+chính sách shop thế nào ạ
+chính sách bảo hành
+shop ơi có được trả hàng không
+mình muốn biết đổi size được không
+có được trả hàng không ạ
+chính sách bảo hành
+có được trả hàng không vậy
+đổi size được không ạ
+mình muốn biết đổi size được không
+chính sách bảo hành
+chính sách shop thế nào
+đổi size được không vậy
+bạn ơi chính sách shop thế nào
+cho mình hỏi chính sách shop thế nào
+shop ơi chính sách bảo hành
+có được trả hàng không vậy
+chính sách bảo hành
+cho mình hỏi đổi size được không
+shop ơi chính sách bảo hành
+chính sách bảo hành
