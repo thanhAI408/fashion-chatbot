@@ -1,19 +1,103 @@
 <!DOCTYPE html>
-<html>
+<html lang="vi">
 <head>
-    <title>AI Chatbot</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AURA FIT | Thời trang Tương lai</title>
     <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-<div class="chat-container">
-    <div class="chat-header">🤖 AI Chatbot</div>
-    <div class="chat-box" id="chatBox"></div>
-    <div class="chat-input">
-        <input id="userInput" placeholder="Nhập tin nhắn..." onkeypress="handleKey(event)">
-        <button onclick="sendMessage()">Gửi</button>
-    </div>
-</div>
 
-<script src="/static/script.js"></script>
+    <nav class="glass-nav">
+        <div class="logo">AURA<span class="dot">.</span>FIT</div>
+        <ul class="nav-links">
+            <li class="active">Bộ Sưu Tập</li>
+            <li>Nam</li>
+            <li>Nữ</li>
+            <li>Công Nghệ AI</li>
+        </ul>
+        <div class="nav-icons">
+            <div class="icon-wrap search-trigger"><i class="fas fa-search"></i></div>
+            <div class="icon-wrap cart-trigger">
+                <i class="fas fa-shopping-bag"></i>
+                <span id="cartCount" class="badge">0</span>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-content">
+            <h1>ĐỊNH HÌNH PHONG CÁCH <br> <span class="glow-text">VỚI TRÍ TUỆ NHÂN TẠO</span></h1>
+            <p>Trải nghiệm phòng thử đồ ảo đầu tiên tại Việt Nam. Không chờ đợi. Không giới hạn.</p>
+            <button class="btn-primary" onclick="scrollToShop()">Khám phá ngay</button>
+        </div>
+        <div class="hero-decor"></div>
+    </header>
+
+    <main class="container" id="shop-area">
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">Tất cả</button>
+            <button class="filter-btn" data-filter="streetwear">Streetwear</button>
+            <button class="filter-btn" data-filter="formal">Dạ tiệc</button>
+            <button class="filter-btn" data-filter="casual">Thường ngày</button>
+        </div>
+
+        <div class="product-grid" id="productGrid">
+            </div>
+    </main>
+
+    <div id="productModal" class="modal">
+        <div class="modal-content glass-panel">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <div class="modal-body">
+                <div class="modal-img-col">
+                    <img id="modalImg" src="" alt="">
+                    <button class="btn-ai-tryon" onclick="triggerAITryOn()">
+                        <i class="fas fa-magic"></i> Mặc thử với AI
+                    </button>
+                </div>
+                <div class="modal-info-col">
+                    <h2 id="modalName">Tên sản phẩm</h2>
+                    <p id="modalPrice" class="price">0đ</p>
+                    <p id="modalDesc" class="desc">Mô tả...</p>
+                    
+                    <div class="size-selector">
+                        <span>Size:</span>
+                        <div class="sizes">
+                            <button class="size-opt">S</button>
+                            <button class="size-opt active">M</button>
+                            <button class="size-opt">L</button>
+                            <button class="size-opt">XL</button>
+                        </div>
+                    </div>
+
+                    <button class="btn-add-cart" onclick="addToCart()">Thêm vào giỏ</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fab-container">
+        <div class="chat-window" id="chatWindow">
+            <div class="chat-header">
+                <span>AURA Assistant 🤖</span>
+                <span class="minimize" onclick="toggleChat()">_</span>
+            </div>
+            <div class="chat-messages" id="chatMessages">
+                <div class="msg bot">Chào bạn! Tôi có thể giúp bạn tìm trang phục hoặc hướng dẫn dùng tính năng Thử đồ ảo (Virtual Try-on) ạ?</div>
+            </div>
+            <div class="chat-input-area">
+                <input type="text" id="chatInput" placeholder="Nhập tin nhắn..." onkeypress="handleChatKey(event)">
+                <button onclick="sendChatMessage()"><i class="fas fa-paper-plane"></i></button>
+            </div>
+        </div>
+        <button class="fab-btn" onclick="toggleChat()">
+            <i class="fas fa-comment-alt"></i>
+        </button>
+    </div>
+
+    <script src="/static/script.js"></script>
 </body>
 </html>
